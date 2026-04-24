@@ -2614,3 +2614,12 @@ Entries:
   id: 300
   time: '2026-04-23T05:41:07.0000000+00:00'
   url: https://github.com/ARF-SS13/coyote-frontier/pull/1172
+- author: QTNeen
+  changes:
+    - type: Add
+      message: Radar scanner to shuttle console
+    - type: Tweak
+      message: Andy mute option
+  id: 301
+  time: '2026-04-24T04:41:46.0000000+00:00'
+  url: https://github.com/ARF-SS13/coyote-frontier/pull/1176
