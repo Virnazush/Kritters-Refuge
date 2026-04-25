@@ -105,7 +105,6 @@
     - map: ["socks"] # CS
     - map: ["underpants"] # CS
     - map: ["undershirt"] # CS
-    - map: ["jumpsuit"] # CS
     - map: [ "enum.HumanoidVisualLayers.RArm" ]
     - map: [ "enum.HumanoidVisualLayers.LArm" ]
     - map: [ "enum.HumanoidVisualLayers.RLeg" ]
