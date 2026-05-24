@@ -11,25 +11,9 @@ public sealed class SurveillanceCameraMonitorUiState : BoundUserInterfaceState
     // that contains the monitor should clear.
     public NetEntity? ActiveCamera { get; }
 
-    // Currently available subnets. Does not send the entirety of the possible
-    // cameras to view because that could be really, really large
-    public HashSet<string> Subnets { get; }
-
-    public string ActiveAddress;
-
-    // Currently active subnet.
-    public string ActiveSubnet { get; }
-
-    // Known cameras, by address and name.
-    public Dictionary<string, string> Cameras { get; }
-
-    public SurveillanceCameraMonitorUiState(NetEntity? activeCamera, HashSet<string> subnets, string activeAddress, string activeSubnet, Dictionary<string, string> cameras)
+    public SurveillanceCameraMonitorUiState(NetEntity? activeCamera)
     {
         ActiveCamera = activeCamera;
-        Subnets = subnets;
-        ActiveAddress = activeAddress;
-        ActiveSubnet = activeSubnet;
-        Cameras = cameras;
     }
 }
 
