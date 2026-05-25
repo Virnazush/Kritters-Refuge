@@ -2822,3 +2822,12 @@ Entries:
   id: 322
   time: '2026-05-25T00:54:42.0000000+00:00'
   url: https://github.com/ARF-SS13/coyote-frontier/pull/1203
+- author: DrekkCuga
+  changes:
+    - type: Tweak
+      message: Borgs of any type can take modules of any type.
+    - type: Fix
+      message: Borgs can strip people now.
+  id: 323
+  time: '2026-05-25T02:57:05.0000000+00:00'
+  url: https://github.com/ARF-SS13/coyote-frontier/pull/1202
