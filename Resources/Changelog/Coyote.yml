@@ -2815,3 +2815,10 @@ Entries:
   id: 321
   time: '2026-05-22T03:47:24.0000000+00:00'
   url: https://github.com/ARF-SS13/coyote-frontier/pull/1201
+- author: DrekkCuga
+  changes:
+    - type: Tweak
+      message: Borgs can now wear backpacks, they are however not shown on the chassis.
+  id: 322
+  time: '2026-05-25T00:54:42.0000000+00:00'
+  url: https://github.com/ARF-SS13/coyote-frontier/pull/1203
