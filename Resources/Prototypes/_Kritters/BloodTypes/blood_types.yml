@@ -59,6 +59,29 @@
   - Anthromorph
 
 - type: krittersBloodType
+  id: KrittersBloodCobalt
+  name: kritters-blood-type-cobalt-name
+  description: kritters-blood-type-cobalt-desc
+  scannerName: kritters-blood-scanner-cobalt
+  bloodReagent: CobaltBlood
+  tags:
+  - KrittersBloodBaseCobalt
+  - KrittersBloodMetabolismWarm
+  species:
+  - Human
+  - Dwarf
+  - Reptilian
+  - Felinid
+  - Feroxi
+  - Harpy
+  - Oni
+  - Ovinia
+  - Rodentia
+  - Tajaran
+  - Vulpkanin
+  - Anthromorph
+
+- type: krittersBloodType
   id: KrittersBloodInsect
   name: kritters-blood-type-insect-name
   description: kritters-blood-type-insect-desc

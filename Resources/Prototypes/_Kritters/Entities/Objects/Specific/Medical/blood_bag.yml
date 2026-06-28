@@ -10,6 +10,7 @@
     reagentWhitelist:
     - Blood
     - CopperBlood
+    - CobaltBlood
     - InsectBlood
     - AmmoniaBlood
     - Sap

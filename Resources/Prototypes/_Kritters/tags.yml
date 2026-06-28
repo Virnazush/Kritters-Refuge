@@ -12,6 +12,9 @@
   id: KrittersBloodBaseCopper
 
 - type: Tag
+  id: KrittersBloodBaseCobalt
+
+- type: Tag
   id: KrittersBloodBaseAmmonia
 
 - type: Tag
