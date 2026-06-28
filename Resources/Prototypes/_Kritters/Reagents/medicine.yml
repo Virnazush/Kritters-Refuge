@@ -34,7 +34,6 @@
         damage:
           types:
             Asphyxiation: 5
-            Cold: 3
       - !type:HealthChange
         conditions:
         - !type:OrganType
@@ -44,3 +43,20 @@
             Poison: 2.5 # Avali blood is ammonia based, so chems made to treat normal bloodloss poison them instead. Dex+ is worse. (Lethal Dose: 15u)
             Asphyxiation: 1.5
             Bloodloss: 1
+      # Kritters: Tag-driven blood mistreatment. This only applies while the
+      # Kritters blood type system has marked the patient active, so disabling
+      # the system leaves baseline medicine behavior intact. Mistreatment keeps
+      # the existing negative damage and adds cellular damage.
+      - !type:HealthChange
+        conditions:
+        - !type:HasTag
+          tag: KrittersBloodTypesActive
+        - !type:HasTag
+          tag: KrittersBloodBaseIron
+          invert: true
+        damage:
+          types:
+            Poison: 1.0
+            Asphyxiation: 2.5
+            Bloodloss: 1
+            Cellular: 1.0
