@@ -24,17 +24,19 @@ frontier-lobby-exped-description = This is base camp for mercenaries and alike. 
    - Purchase expedition-ready ships
    - Socialize with other mercenaries - or not.
 
-frontier-lobby-medical-subtext = The medical dispatch hub and search and rescue center.
-frontier-lobby-medical-description = Frontier's medical dispatch hub. Here you can:
+# Kritters
+frontier-lobby-medical-subtext = The sector’s hospital and medical response center.
+frontier-lobby-medical-description = Nightingale General Hospital is the sector’s center for patient care and medical response. Here you can:
    - Start or find a medical response crew
    - Socialize with other medics
    - Purchase medical specialist ships
    - Drop off medical bounties
  {"["}color=gray]Some of the roles on this station are [color=lightblue]whitelist-only[/color] and require an application in the Discord to be accepted.[/color]
 
-frontier-lobby-nfsd-subtext = The center of operations for the Sheriff's department.
-frontier-lobby-nfsd-description = The New Frontier Sheriff's Department is the center of operations for the Sheriff's department. Here you can:
-   - Join the Sheriff's department
+# Kritters
+frontier-lobby-nfsd-subtext = The Coalition Warden’s Office headquarters.
+frontier-lobby-nfsd-description = CWO Outpost is the center of operations for the Coalition Warden’s Office. Here you can:
+   - Join the Coalition Warden’s Office
    - Apply for a bounty hunting license
    - Report crimes
 

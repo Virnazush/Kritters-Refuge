@@ -1,0 +1,19 @@
+department-Frontier = Coalition Administration Office
+department-Security = Coalition Warden’s Office
+department-Engineering = Public Works Department
+department-Civilian = Contractors
+department-FoodService = Food Service Department
+department-Science = Research and Development Office
+department-Supply = Supply Department
+department-Medical = Nightingale General Hospital
+department-TransitionalRoles = Legacy Roles
+
+department-Frontier-description = Coordinate Haven’s Rest administration, records, and sector traffic.
+department-Security-description = Enforce Coalition law and protect the sector.
+department-Engineering-description = Maintain power, machinery, structures, and public infrastructure.
+department-Civilian-description = Take independent contracts and crew vessels across the sector.
+department-FoodService-description = Keep the sector fed, supplied with produce, and hospitable.
+department-Science-description = Research artifacts, anomalies, and new technologies.
+department-Supply-description = Manage requisitions, deliveries, and material logistics.
+department-Medical-description = Provide medical, pharmaceutical, nursing, and spiritual care.
+department-TransitionalRoles-description = Established roles retained for compatible stations and assignments.

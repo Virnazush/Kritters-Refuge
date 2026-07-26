@@ -1,3 +1,4 @@
+# Kritters
 - type: gameMap
   id: Frontier
   mapName: "Haven's Rest"
@@ -39,7 +40,7 @@
             StationRepresentative: [ 1, 2 ]
 #            StationTrafficController: [ 1, 2 ]
             Secretary: [ 5, 5 ]
-            SecurityGuard: [ 2 , 5 ]
+            Deputy: [ 2, 5 ] # Kritters
 #            Valet: [ 0, 0 ]
             NFJanitor: [ 2, 5 ]
             MailCarrier: [ 2, 5 ]

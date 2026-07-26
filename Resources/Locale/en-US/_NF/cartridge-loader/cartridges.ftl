@@ -16,7 +16,8 @@ ledger-no-balance = N/A
 
 ledger-tab-Frontier = Frontier Outpost
 ledger-tab-Nfsd = NFSD
-ledger-tab-Medical = Medical Dispatch
+# Kritters
+ledger-tab-Medical = Nightingale General Hospital
 ledger-tab-Edison = Edison
 # Fallback, if this displays, something's wrong.
 ledger-tab-Unknown = Unknown

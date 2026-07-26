@@ -1,19 +1,17 @@
-highlights-station-representative = "SR", Station Representative, Station Rep
-highlights-station-traffic-controller = "STC", Traffic Control
+# Kritters
 highlights-valet = Valet
 highlights-mail-carrier = Mail Carrier
 # janitor using upstream definition
+# Kritters
 highlights-security-guard = Security Guard, Station Guard, Guard
-highlights-director-of-care = "DOC", Director of Care
 
+# Kritters
 highlights-cadet = Cadet, "NFSD"
-highlights-deputy = Deputy, "NFSD"
 highlights-detective = Detective, "Det", "NFSD"
+# Kritters
 highlights-brigmedic = Brigmedic, Brigmed, "NFSD"
-highlights-sergeant = Sergeant, Sarge, "NFSD"
-highlights-bailiff = Bailiff, "NFSD"
+# Kritters
 highlights-public-affairs-liaison = Liaison, "PAL", "NFSD"
-highlights-sheriff = Sheriff, "NFSD"
 
 highlights-prisoner = Prisoner
 highlights-pirate = Pirate

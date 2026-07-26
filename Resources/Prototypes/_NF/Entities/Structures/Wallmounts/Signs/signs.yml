@@ -1,3 +1,4 @@
+# Kritters
 # Directional Station Guide Signs
 - type: entity
   parent: BaseSignDirectional
@@ -55,8 +56,8 @@
 - type: entity
   parent: BaseSignDirectionalNF
   id: SignDirectionalNfsd
-  name: NFSD outpost sign
-  description: A direction sign, pointing out which way an NFSD outpost is.
+  name: CWO outpost sign # Kritters
+  description: A direction sign pointing toward a CWO outpost. # Kritters
   components:
   - type: Sprite
     state: direction_nfsd

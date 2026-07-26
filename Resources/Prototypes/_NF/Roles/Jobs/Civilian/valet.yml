@@ -1,7 +1,8 @@
-﻿- type: job
+﻿# Kritters
+- type: job
   id: Valet
   name: job-name-valet
-  setPreference: false # soft removed, cus they dont really anything, also secretary #27503
+  setPreference: true # Kritters: selectable from the Legacy Roles category.
   description: job-description-valet
   playTimeTracker: JobValet
   requirements:

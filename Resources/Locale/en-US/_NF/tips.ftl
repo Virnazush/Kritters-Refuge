@@ -90,9 +90,8 @@ nf-tips-dataset-88 = When you enter cryosleep, your body remains stored for up t
 nf-tips-dataset-89 = If you accidentally left the game for a long time, you can still check on your character. Perhaps someone shoved them into a cryopod and you can use the 'un-cryo' button?
 nf-tips-dataset-90 = If you see a person who's fallen SSD, Do not interact with SSD/AFK players at all without administrative permission. Ahelp if concerned.
 nf-tips-dataset-91 = Watch out for food trucks such as the Skipper or the McCargo - they can offer delicious food for a reasonable price!
+# Kritters
 nf-tips-dataset-92 = Meals cooked by chefs are more filling, more flavorful, and in some cases can even boost your movement speed for a short time!
-nf-tips-dataset-93 = Each ID card can have a shuttle attached to it. If you need to purchase an additional shuttle, you can ask your local SR for another ID!
-nf-tips-dataset-94 = The Station Representative can rename your shuttle! Usually it's enough to hand your ID and ask them to do it.
 nf-tips-dataset-95 = If your ship has a big crew, use specific radio keys (check the AstroVend) or HandiComms to talk with your crewmates.
 nf-tips-dataset-96 = HandiComms work on multiple frequencies, and across extremely long distances.
 nf-tips-dataset-97 = Before joining an ongoing round, you can see the list of ships looking for crew! Maybe some of them have jobs you would prefer?
@@ -103,16 +102,16 @@ nf-tips-dataset-101 = Medical ships often have access to the hypospray. An exper
 nf-tips-dataset-102 = If you're hurt, try to ask for medical help on the radio. Medics are often eager to heal the wounded, as their job usually gets boring after hours of waiting.
 nf-tips-dataset-103 = Your PDA doubles as a GPS! It can help you locate your station, or tell your location to others and get saved.
 nf-tips-dataset-104 = Smuggling is very profitable, but also very risky! Remember that an IFF console can help hide your IFF.
+# Kritters
 nf-tips-dataset-105 = As a smuggler, try to destroy any evidence of your crimes. Remember, your PDA has a notepad app, which can be used to store important notes in a digital form.
-nf-tips-dataset-106 = NFSD has access to long range radar! If you're an outlaw, watch out for Prowlers stalking in the void!
 nf-tips-dataset-107 = Large ships like the Crescent can act as motherships. They tend to have shipyard consoles, which allow you to purchase and sell other smaller ships!
 nf-tips-dataset-108 = Remember to read Space Law, it comes with your PDA! It contains some useful info, for example: you can start a mutiny if your captain is found to be in violation of the Space Law.
+# Kritters
 nf-tips-dataset-109 = Your PDA has a pre-installed news application. Check it out, perhaps the local reporter has posted some interesting news?
-nf-tips-dataset-110 = There's a special app installed in your PDA, which allows you to see posted bounties. If you can fulfill one of them, you can ask the local SR or Sheriff for a reward!
+# Kritters
 nf-tips-dataset-111 = Remember, Haven's Rest is the entry point for all players. It's frowned upon to engage in antagonist behavior or damage property to the station!
-nf-tips-dataset-112 = If you're using an IFF console, remember to turn your IFF on when not purposefully skulking about, or you'll risk facing NFSD on your ship!
+# Kritters
 nf-tips-dataset-113 = Going on an expedition alone is very risky! Make sure to always have a crewmate to save you in case you get ambushed by a xeno queen.
-nf-tips-dataset-114 = Expeditions can yield rare and useful items, and not all of them are legal. Try not to leave those lying on the floor, as NFSD might board you at some point!
 nf-tips-dataset-115 = Remember, small fuzzy foxes are free, just scoop one up and take it home! Also Shortband radio has a max range.
 nf-tips-dataset-116 = Every shuttle console has an internal traffic intercom. Make sure to use it!
 nf-tips-dataset-117 = If you get stranded in space, make sure to notify others using the radio! Getting depressed and falling into coma is never the best solution.

@@ -1,9 +1,10 @@
+# Kritters
 - type: job
   id: Chemist
   name: job-name-chemist
   description: job-description-chemist
   playTimeTracker: JobChemist
-  setPreference: false # Frontier
+  setPreference: true # Kritters
   requirements:
     - !type:DepartmentTimeRequirement
       department: Medical

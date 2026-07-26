@@ -1,3 +1,4 @@
+# Kritters
 meta:
   format: 7
   category: Grid
@@ -62,7 +63,7 @@ entities:
   - uid: 1
     components:
     - type: MetaData
-      name: NFSD Outpost 2.0
+      name: CWO Outpost 2.0 # Kritters
     - type: Transform
       pos: -11.739906,-2.6266727
       parent: invalid

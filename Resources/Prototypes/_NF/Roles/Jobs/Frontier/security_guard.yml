@@ -1,8 +1,10 @@
+# Kritters
 - type: job
   id: SecurityGuard
   name: job-name-security-guard
   description: job-description-security-guard
   playTimeTracker: JobSecurityGuard
+  setPreference: true # Kritters: selectable from the Legacy Roles category.
   requirements:
   - !type:OverallPlaytimeRequirement
     time: 43200 # 12 hours

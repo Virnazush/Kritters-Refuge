@@ -11,10 +11,11 @@ nf-holopad-general-frontier-outpost-station-rep = Frontier Outpost - SR's Office
 nf-holopad-general-frontier-outpost-lobby = Frontier Outpost - Main Lobby
 nf-holopad-general-trade-station-stc = Haven's Rest - Bridge
 nf-holopad-general-trade-station-cafeteria = Haven's Rest - Cafeteria
-nf-holopad-general-medical-dispatch = Medical Dispatch - Reception
-nf-holopad-general-medical-dispatch-doc = Medical Dispatch - DoC's Office
-nf-holopad-general-nfsd-sheriff-office = NFSD - Sheriff's Office
-nf-holopad-general-nfsd-reception = NFSD - Reception
-nf-holopad-general-nfsd-lobby = NFSD - Main Lobby
+# Kritters
+nf-holopad-general-medical-dispatch = Nightingale General Hospital - Reception
+nf-holopad-general-medical-dispatch-doc = Nightingale General Hospital - CMO's Office
+nf-holopad-general-nfsd-sheriff-office = CWO Outpost - Warden's Office
+nf-holopad-general-nfsd-reception = CWO Outpost - Reception
+nf-holopad-general-nfsd-lobby = CWO Outpost - Main Lobby
 nf-holopad-general-edison-reception = Edison Power Plant - Reception
 nf-holopad-general-tinnia = Tinnia's Rest

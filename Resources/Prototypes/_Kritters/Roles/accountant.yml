@@ -1,0 +1,12 @@
+- type: job
+  id: Accountant
+  name: job-name-accountant
+  description: job-description-accountant
+  playTimeTracker: JobAccountant
+  setPreference: false
+  icon: JobIconCargoTechnician
+  supervisors: job-supervisors-sr
+  canBeAntag: false
+
+- type: playTimeTracker
+  id: JobAccountant

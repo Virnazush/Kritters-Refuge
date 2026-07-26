@@ -1,4 +1,5 @@
 <Document>
+# Kritters
   # VITALIS-CLASS MEDICAL SHUTTLE
   <Box>
     <GuideEntityEmbed Entity="hydroponicsTray"/>
@@ -18,7 +19,7 @@
 
 	[color=#a4885c]IFF Console:[/color] None
 
-	[color=#a4885c]Available Roles:[/color] Resident, Pilot, Mercenary
+	[color=#a4885c]Available Roles:[/color] Contractor, Pilot, Mercenary
 
   The Vitalis is a medium-sized medical support vessel designed for cryogenic deployment and medical personnel support.
 

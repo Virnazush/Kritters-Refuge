@@ -1,9 +1,10 @@
+# Kritters
 - type: job
   id: Botanist
   name: job-name-botanist
   description: job-description-botanist
   playTimeTracker: JobBotanist
-  setPreference: false # Frontier
+  setPreference: true # Kritters
   requirements:
     - !type:OverallPlaytimeRequirement
       time: 10800

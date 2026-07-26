@@ -1,9 +1,10 @@
+# Kritters
 - type: job
   id: Quartermaster
   name: job-name-qm
   description: job-description-qm
   playTimeTracker: JobQuartermaster
-  setPreference: false # Frontier
+  setPreference: true # Kritters
   requirements:
     - !type:RoleTimeRequirement
       role: JobCargoTechnician
@@ -12,7 +13,7 @@
       role: JobSalvageSpecialist
       time: 9000 #2.5 hrs
     - !type:DepartmentTimeRequirement
-      department: Cargo
+      department: Supply # Kritters
       time: 36000 #10 hours
   weight: 10
   startingGear: QuartermasterGear

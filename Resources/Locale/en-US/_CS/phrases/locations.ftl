@@ -16,11 +16,13 @@ phrase-location-nautical-docking-to = docking to
 # Station names
 phrase-location-nash = Haven's Rest
 phrase-location-havens = Haven's Rest
-phrase-location-nfsd-outpost = NFSD Outpost
+# Kritters
+phrase-location-nfsd-outpost = CWO Outpost
 phrase-location-frontier-outpost = Frontier outpost
 phrase-location-power-plant = Power Plant
 phrase-location-barrier = Barrier Station
-phrase-location-hospital = Saint michael's hospital
+# Kritters
+phrase-location-hospital = Nightingale General Hospital
 phrase-location-casino = Crazy Caseys' Casino
 phrase-location-grifty = Grifty's Gas & Grub
 phrase-location-lodge = Expeditionary Lodge

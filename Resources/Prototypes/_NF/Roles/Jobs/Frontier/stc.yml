@@ -1,10 +1,11 @@
+# Kritters
 - type: job
   id: StationTrafficController
   name: job-name-stc
   description: job-description-stc
   playTimeTracker: JobStc
   startingGear: StcGear
-  setPreference: false # soft removed, cus they dont really anything, also secretary #27503
+  setPreference: true # Kritters
   alwaysUseSpawner: true
   requirements:
     - !type:OverallPlaytimeRequirement
@@ -51,4 +52,3 @@
   job: StationTrafficController
   equipment:
     head: ClothingHeadHatStcCap
-

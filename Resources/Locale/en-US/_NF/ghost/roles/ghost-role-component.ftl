@@ -5,8 +5,8 @@ ghost-role-information-emotional-support-rules = You are an [color={role-type-em
                                         You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
                                         You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
 
+# Kritters
 ghost-role-information-clippy-name = Clippy
-ghost-role-information-clippy-description = The Station Representative's loyal worker, smells like cardboard and papers.
 
 ghost-role-information-clugg-name = Clugg
 ghost-role-information-clugg-description = Ugg! Clugg love eat meat. Find new home off space rock, make big hunt.
@@ -95,5 +95,5 @@ ghost-role-information-flarpy-description = A cute Freelancer cat here to run ev
 ghost-role-information-flarpy-rules = You are an old [color={role-type-pirate-color}][bold]{role-type-pirate-name}[/bold][/color] cat, help the Freelancers, and count the beans on your paws.
 
 ghost-role-information-narpy-name = Narpy
+# Kritters
 ghost-role-information-narpy-description = A cute NFSD cat here to run evil finances and foster evil friendship.
-

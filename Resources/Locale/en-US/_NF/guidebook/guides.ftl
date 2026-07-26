@@ -20,8 +20,8 @@ guide-entry-offshore-gas-mining = Offshore Gas Mining
 guide-entry-nfsd-smuggling = Smuggling
 
 # Medical entries
+# Kritters
 guide-entry-medical-bounties = Medical Bounties
-guide-entry-medical-doc = Director of Care
 
 # Reference entries
 guide-entry-medicalrecipes = Medical Recipes

@@ -1,3 +1,4 @@
+# Kritters
 - type: entity
   parent: FaxMachineBase
   id: FaxMachineShip
@@ -211,7 +212,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: FaxMachine
-    name: "NFSD Outpost Sheriff"
+    name: "CWO Outpost Warden" # Kritters
 
 - type: entity
   parent: [BaseStructureDisableToolUse, FaxMachineBase]
@@ -220,7 +221,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: FaxMachine
-    name: "NFSD Outpost Lawyer"
+    name: "CWO Outpost Legal Office" # Kritters
 
 - type: entity
   parent: FaxMachineBase
@@ -243,11 +244,11 @@
 - type: entity
   parent: [BaseStructureDisableToolUse, FaxMachineBase]
   id: FaxMachineNFMedicalDispatch
-  suffix: POI, Medical Dispatch
+  suffix: POI, Nightingale General Hospital # Kritters
   categories: [ HideSpawnMenu ]
   components:
   - type: FaxMachine
-    name: "Medical Dispatch"
+    name: "Nightingale General Hospital" # Kritters
 
 # Events
 - type: entity

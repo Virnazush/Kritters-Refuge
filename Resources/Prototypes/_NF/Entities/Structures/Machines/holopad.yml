@@ -1,3 +1,4 @@
+# Kritters
 - type: entity
   parent: HolopadLongRange
   id: NFHolopadShip
@@ -162,7 +163,7 @@
 - type: entity
   parent: NFHolopadPoiBase
   id: NFHolopadMedicalDispatch
-  suffix: Medical Dispatch, POI
+  suffix: Nightingale General Hospital, POI # Kritters
   components:
   - type: Label
     currentLabel: nf-holopad-general-medical-dispatch
@@ -170,7 +171,7 @@
 - type: entity
   parent: NFHolopadPoiBase
   id: NFHolopadMedicalDispatchDoC
-  suffix: Medical Dispatch DoC, POI
+  suffix: Nightingale General Hospital CMO, POI # Kritters
   components:
   - type: Label
     currentLabel: nf-holopad-general-medical-dispatch-doc

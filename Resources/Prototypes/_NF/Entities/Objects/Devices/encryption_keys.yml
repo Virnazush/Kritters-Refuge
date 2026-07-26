@@ -1,3 +1,4 @@
+# Kritters
 - type: entity
   parent: [EncryptionKey, RecyclableItemDeviceTiny]
   id: EncryptionKeyTraffic
@@ -38,9 +39,9 @@
 - type: entity
   parent: EncryptionKey
   id: EncryptionKeyDoc
-  name: medical dispatch encryption key
+  name: Nightingale General Hospital encryption key # Kritters
   categories: [ DoNotMap ]
-  description: An encryption key for coordinating medical dispatch.
+  description: An encryption key for coordinating Nightingale General Hospital communications. # Kritters
   components:
   - type: EncryptionKey
     channels:

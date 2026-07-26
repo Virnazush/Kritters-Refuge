@@ -1,4 +1,5 @@
 <Document>
+# Kritters
   # Piloting
   <Box>
     <GuideEntityEmbed Entity="ComputerShuttle"/>
@@ -25,7 +26,7 @@ Newly purchased shuttles start docked with Haven's Rest. To undock, follow these
   </Box>
   [bold]Before docking your ship with:[/bold]
 - [bold][color=#979797]Another ship[/color][/bold], it is best practice to announce your intention to dock over the traffic channel ([color=#CC6633]:d[/color]).
-- [bold][color=#ffd700]Haven's Rest[/color][/bold], stop 200m out, request permission to dock from the Station Traffic Controller (STC) over the traffic radio channel ([color=#CC6633]:d[/color]).
+- [bold][color=#ffd700]Haven's Rest[/color][/bold], stop 200m out, request permission to dock from the Dispatcher over the traffic radio channel ([color=#CC6633]:d[/color]).
 - [bold][color=#ffa500]Another station[/color][/bold], docks are first come, first serve. Be courteous and leave space where possible.
 
 To dock the ship:

@@ -1,4 +1,5 @@
 <Document>
+# Kritters
   # NOOK-LINE PERSONAL SHUTTLE
   <Box>
     <GuideEntityEmbed Entity="ComfyChair" Caption="Comfy!"/>
@@ -18,7 +19,7 @@
 
   [color=#a4885c]IFF Console:[/color] None
 
-  [color=#a4885c]Available Roles:[/color] Resident, Pilot, Mercenary
+  [color=#a4885c]Available Roles:[/color] Contractor, Pilot, Mercenary
 
   "Nook is a mobile-home shuttle specifically made with user modifications in mind. Some of the more prominent features are the cargobay and frontal airlock for small-scale salvaging operations"
 

@@ -48,12 +48,8 @@ tips-dataset-47 = As a Salvage Specialist, you can use your proto-kinetic accele
 tips-dataset-48 = As a Salvage Specialist, never forget to mine ore! Ore can be sold to cargo for a pretty penny, be used for construction, and also be used by Scientists for fancy technology.
 tips-dataset-49 = As a Salvage Specialist, try asking science for a tethergun. It can be used to grab items off of salvage wrecks extremely efficiently!
 tips-dataset-50 = As a Salvage Specialist, try asking science for a grappling hook. It can be used to propel yourself onto wrecks, or if stuck in space you don't have to rely on the proto-kinetic accelerator.
+# Kritters
 tips-dataset-51 = Tip #51 does not exist and has never existed. Ignore any rumors to the contrary.
-tips-dataset-52 = As a Salvage Specialist, consider cooperating with the Cargo Technicians. They can order you a wide variety of useful items, including ones that may be hard to get otherwise, such laser guns and shuttle building materials.
-tips-dataset-53 = As a Cargo Technician, consider asking science for a Ripley APLU. When paired with a hydraulic clamp, you can grab valuable maintenance objects like fuel tanks much more easily, and make deliveries in a swift manner.
-tips-dataset-54 = As a Cargo Technician, try to maintain a surplus of materials. They are extremely useful for Scientists and Station Engineers to have immediate access to.
-tips-dataset-55 = As a Cargo Technician, if you have a surplus of cash try gambling! Sometimes you gain more money than you begin with.
-tips-dataset-56 = As a Cargo Technician, remember that you can order guns in an emergency! The extra firepower can often be the difference between you and your fellow crewmembers living or dying.
 tips-dataset-57 = As the Bartender, you can use a circular saw on your shotgun to make it easier to store.
 tips-dataset-58 = As the Bartender, try experimenting with unique drinks. Have you tried to make demon's blood yet?
 tips-dataset-59 = As a Botanist, you can mutate and crossbreed plants together to create more potent produce that also has higher yields.

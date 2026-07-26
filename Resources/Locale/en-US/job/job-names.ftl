@@ -35,8 +35,8 @@ job-name-bartender = Bartender
 job-name-passenger = Passenger
 job-name-salvagespec = Salvage Specialist
 job-name-station-ai = Station AI
+# Kritters
 job-name-qm = Quartermaster
-job-name-cargotech = Cargo Technician
 job-name-chef = Chef
 job-name-clown = Clown
 job-name-ertleader = ERT Leader
@@ -72,14 +72,14 @@ JobBartender = Bartender
 JobBorg = Borg
 JobBotanist = Botanist
 JobBoxer = Boxer
+# Kritters
 JobCaptain = Captain
-JobCargoTechnician = Cargo Technician
 JobCentralCommandOfficial = Central Command Official
 JobChaplain = Chaplain
 JobChef = Chef
 JobChemist = Chemist
-# Frontier: Chief Engineer<Plant Manager
-JobChiefEngineer = Plant Manager
+# Kritters
+JobChiefEngineer = Chief Engineer
 JobChiefMedicalOfficer = Chief Medical Officer
 JobClown = Clown
 JobDetective = Detective
@@ -89,11 +89,8 @@ JobERTEngineer = ERT Engineer
 JobERTJanitor = ERT Janitor
 JobERTLeader = ERT Leader
 JobERTMedical = ERT Medical
+# Kritters
 JobERTSecurity = ERT Security
-# Frontier: Head of Personnel<Station Representative
-JobHeadOfPersonnel = Station Representative
-# Frontier: Head of Security<Sheriff
-JobHeadOfSecurity = Sheriff
 JobJanitor = Janitor
 JobLawyer = Lawyer
 JobLibrarian = Librarian
@@ -101,9 +98,8 @@ JobMedicalDoctor = Medical doctor
 JobMedicalIntern = Medical intern
 JobMime = Mime
 JobMusician = Musician
+# Kritters
 JobParamedic = Paramedic
-# Frontier: Passenger<Contractor
-JobPassenger = Resident
 JobPsychologist = Psychologist
 JobQuartermaster = Quartermaster
 JobReporter = Reporter
@@ -112,14 +108,12 @@ JobResearchDirector = Research Director
 JobSalvageSpecialist = Salvage Specialist
 JobScientist = Scientist
 # Frontier: Security Cadet<Cadet
+# Kritters
 JobSecurityCadet = Cadet
-# Frontier: Security Officer<Deputy
-JobSecurityOfficer = Deputy
 JobServiceWorker = Service Worker
 JobStationAi = Station AI
 JobStationEngineer = Station Engineer
 JobTechnicalAssistant = Technical Assistant
+# Kritters
 JobVisitor = Visitor
-# Frontier: Warden<Bailiff
-JobWarden = Bailiff
 JobZookeeper = Zookeeper

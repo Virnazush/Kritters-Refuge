@@ -1,21 +1,4 @@
-- type: department
-  id: Frontier
-  name: department-Frontier
-  description: department-NF-description
-  color: "#334E6D"
-  weight: 50 # accounted for in jobs
-  roles:
-  - StationRepresentative
-  - DirectorOfCare
-  - StationTrafficController
-  - Secretary
-  - Valet # nyano
-  - NFJanitor
-  - MailCarrier # nyano
-  - SecurityGuard
-  - MedicalNurse # Frontier
-  - Therapist # Frontier
-
+# Kritters
 - type: department
   id: Antag
   name: department-Antag

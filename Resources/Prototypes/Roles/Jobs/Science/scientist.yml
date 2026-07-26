@@ -1,9 +1,10 @@
+# Kritters
 - type: job
   id: Scientist
   name: job-name-scientist
   description: job-description-scientist
   playTimeTracker: JobScientist
-  setPreference: false # Frontier
+  setPreference: true # Kritters
   requirements:
     - !type:DepartmentTimeRequirement
       department: Science

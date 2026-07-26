@@ -12,10 +12,10 @@ highlights-research-director = Research Director, "RD", Science, "Sci", Bridge, 
 # highlights-detective = Detective, "Det", Security, "Sec"
 highlights-security-cadet = Security Cadet, Secoff, Cadet, Security, "Sec"
 highlights-security-officer = Security Officer, Secoff, Officer, Security, "Sec"
+# Kritters
 highlights-warden = Warden, "Ward", Security, "Sec"
 
 # Cargo
-highlights-cargo-technician = Cargo Technician, Cargo Tech, "Cargo"
 highlights-salvage-specialist = Salvage Specialist, Salvager, Salvage, "Salv", "Cargo", Miner
 
 # Engineering

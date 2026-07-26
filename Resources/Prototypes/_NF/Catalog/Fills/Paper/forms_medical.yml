@@ -1,3 +1,4 @@
+# Kritters
 # MD Forms
 # Sources: https://discord.com/channels/1123826877245694004/1182366744266932224/1182366744266932224
 #          https://docs.google.com/document/d/1jDX9numj-VHKBJ2FiiEo1GIlHESffOUIHIIXaqhEnls/edit?pli=1#heading=h.ru93r8n0fb7m
@@ -195,15 +196,15 @@
 
 - type: entity
   id: PaperWrittenMedicalFormReceiptInvoice
-  name: medical dispatch payment
+  name: Nightingale General Hospital payment # Kritters
   categories: [ HideSpawnMenu ]
   parent: Paper
   components:
   - type: Paper
-    content: |2
-      [color=#33ccff]◥[bold]N[/bold]◣ [bold]Director of Care Payroll[/bold][/color]
+    content: |2 # Kritters
+      [color=#33ccff]◥[bold]N[/bold]◣ [bold]Chief Medical Officer Payroll[/bold][/color]
       [color=#33ccff]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
-      [head=2]Medical Dispatch Payment[/head]
+      [head=2]Nightingale General Hospital Payment[/head]
 
       [head=3]Resident Information[/head]
             [bold]Name:[/bold]
@@ -229,8 +230,8 @@
   parent: Paper
   components:
   - type: Paper
-    content: |2
-      [color=#33ccff]◥[bold]N[/bold]◣ [bold]Director of Care Payroll[/bold][/color]
+    content: |2 # Kritters
+      [color=#33ccff]◥[bold]N[/bold]◣ [bold]Chief Medical Officer Payroll[/bold][/color]
       [color=#33ccff]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
       [head=2]Medical Release Form[/head]
 
@@ -304,5 +305,4 @@
 
       [head=3]Injuries[/head]
       {damageList}
-
 

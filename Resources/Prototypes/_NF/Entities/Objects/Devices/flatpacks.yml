@@ -1,3 +1,4 @@
+# Kritters
 #region Base
 - type: entity
   parent: BaseFlatpack
@@ -1172,7 +1173,7 @@
   parent: BaseNFFlatpack
   id: StationAdministrationConsoleFlatpack
   name: station administration console flatpack
-  description: A flatpack used for constructing a station administration console for Medical Dispatch.
+  description: A flatpack used for constructing a station administration console for Nightingale General Hospital. # Kritters
   components:
   - type: Flatpack
     entity: ComputerTabletopStationAdminBankATMMedical

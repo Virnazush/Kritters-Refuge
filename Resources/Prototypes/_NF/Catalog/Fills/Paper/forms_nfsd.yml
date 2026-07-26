@@ -1,4 +1,5 @@
-# Station Representative Forms
+# Kritters
+# Superintendent Forms
 # Sources: https://discord.com/channels/1123826877245694004/1182366744266932224/1182366744266932224
 #          https://docs.google.com/document/d/1jDX9numj-VHKBJ2FiiEo1GIlHESffOUIHIIXaqhEnls/edit?pli=1#heading=h.ru93r8n0fb7m
 # These forms should be kept up-to-date with changes to Space Law.
@@ -28,15 +29,15 @@
 - type: entity
   id: BoxFolderNfsdForms
   parent: [FillNfsdForms, BoxFolderPalGreen]
-  name: NFSD form folder
-  description: A folder filled with NFSD paperwork templates.
+  name: CWO form folder # Kritters
+  description: A folder filled with CWO paperwork templates. # Kritters
   suffix: Forms, Green
 
 - type: entity
   id: BoxFolderNfsdFormsBrown
   parent: [FillNfsdForms, BoxFolderPalBrown]
-  name: NFSD form folder
-  description: A folder filled with NFSD paperwork templates.
+  name: CWO form folder # Kritters
+  description: A folder filled with CWO paperwork templates. # Kritters
   suffix: Forms, Brown
 
 # Forms
@@ -47,8 +48,8 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Paper
-    content: |2
-      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+    content: |2 # Kritters
+      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]Coalition Warden's Office[/bold][/color]
       [color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
       [head=2]Search Warrant[/head]
 
@@ -65,7 +66,7 @@
 
 
 
-      [color=#AAAAAA]This Warrant is only valid when requested by an agent of the NFSD and approved, signed, and stamped by a [italic]distinct[/italic] (unless impossible) senior ranked officer or a Station Representative.[/color]
+      [color=#AAAAAA]This Warrant is only valid when requested by an agent of the CWO and approved, signed, and stamped by a [italic]distinct[/italic] (unless impossible) senior ranked officer or a Superintendent.[/color]
 
 - type: entity # Creator: Starly (Shaw Clifflower)
   id: PaperWrittenNfsdReport
@@ -74,8 +75,8 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Paper
-    content: |2
-      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+    content: |2 # Kritters
+      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]Coalition Warden's Office[/bold][/color]
       [color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
       [head=2]After Action Report[/head]
 
@@ -109,7 +110,7 @@
 
 
 
-      [color=#AAAAAA]I, a [italic]senior officer[/italic] of the NFSD, or an agent acting on their behalf, certify that everything written in this report is correct and truthful. I am aware of the penalties should anything in this report be proven incorrect, falsified, or exaggerated.[/color]
+      [color=#AAAAAA]I, a [italic]senior officer[/italic] of the CWO, or an agent acting on their behalf, certify that everything written in this report is correct and truthful. I am aware of the penalties should anything in this report be proven incorrect, falsified, or exaggerated.[/color]
 
 - type: entity
   id: PaperWrittenNfsdArrestWarrant
@@ -118,8 +119,8 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Paper
-    content: |2
-      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+    content: |2 # Kritters
+      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]Coalition Warden's Office[/bold][/color]
       [color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
       [head=2]Arrest Warrant[/head]
 
@@ -146,7 +147,7 @@
 
 
 
-      [color=#AAAAAA]This warrant is only valid when requested by an agent of the NFSD, and approved, signed and stamped by a distinct (unless impossible) senior ranked officer, or a Station Representative.[/color]
+      [color=#AAAAAA]This warrant is only valid when requested by an agent of the CWO, and approved, signed and stamped by a distinct (unless impossible) senior ranked officer, or a Superintendent.[/color]
 
 - type: entity # Creator: Kwentov (Vica)
   id: PaperWrittenNfsdArrestReport
@@ -155,8 +156,8 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Paper
-    content: |2
-      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+    content: |2 # Kritters
+      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]Coalition Warden's Office[/bold][/color]
       [color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
       [head=2]Arrest Report[/head]
 
@@ -192,12 +193,12 @@
   parent: Paper
   components:
   - type: Paper
-    content: |2 # If editing this, edit PaperWrittenFrontierEmployeePayHistory
-      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+    content: |2 # If editing this, edit PaperWrittenFrontierEmployeePayHistory # Kritters
+      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]Coalition Warden's Office[/bold][/color]
       [color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
       [head=2]Duty Log[/head]
 
-      [head=2]Sheriff[/head]
+      [head=2]Warden[/head]
       [bold]Name:[/bold]
       [bold]Sign On Time:[/bold]
       [bold]Sign Off Time:[/bold]
@@ -219,7 +220,7 @@
       [bold]Sign Off Time:[/bold]
 
 
-      [color=#AAAAAA]This Form is considered TSF Sensitive Data, Class 2, and is for internal NFSD use only.[/color]
+      [color=#AAAAAA]This Form is considered TSF Sensitive Data, Class 2, and is for internal CWO use only.[/color]
 
 
 - type: entity # Based on form made by Blumbee (Aki Suboshi)
@@ -229,8 +230,8 @@
   parent: Paper
   components:
   - type: Paper
-    content: |2 # If updating this, update PaperWrittenFrontierContrabandTurnover
-      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+    content: |2 # If updating this, update PaperWrittenFrontierContrabandTurnover # Kritters
+      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]Coalition Warden's Office[/bold][/color]
       [color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
       [head=2]Contraband Turnover Receipt[/head]
 
@@ -258,7 +259,7 @@
 
 
 
-      [color=#AAAAAA]This Form is void without the signatures of both Parties and a stamp of either an NFSD senior officer or Frontier Civil Command.[/color]
+      [color=#AAAAAA]This Form is void without the signatures of both Parties and a stamp of either a CWO senior officer or Frontier Civil Command.[/color]
 
 #- type: entity # Based on form made by Blumbee (Aki Suboshi)
 #  id: PaperWrittenNfsdContrabandAmnesty
@@ -268,7 +269,7 @@
 #  components:
 #  - type: Paper
 #    content: |2 # If updating this, update PaperWrittenFrontierContrabandAmnesty
-#      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+#      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]Coalition Warden's Office[/bold][/color]
 #      [color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
 #      [head=2]Contraband Amnesty Agreement[/head]
 #
@@ -288,7 +289,7 @@
 #
 #
 #
-#      [color=#AAAAAA]This form is void without the signatures of both Parties and a stamp of Frontier Command (Sheriff or Station Representative).[/color]
+#      [color=#AAAAAA]This form is void without the signatures of both Parties and a stamp of Frontier Command (Warden or Superintendent).[/color]
 
 - type: entity # Based on form made by Blumbee (Aki Suboshi) CS: renamed to license
   id: PaperWrittenNfsdContrabandLicense
@@ -297,8 +298,8 @@
   parent: Paper
   components:
   - type: Paper
-    content: |2 # If updating this, update PaperWrittenFrontierContrabandLicense
-      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+    content: |2 # If updating this, update PaperWrittenFrontierContrabandLicense # Kritters
+      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]Coalition Warden's Office[/bold][/color]
       [color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
       [head=2]Class 2 Contraband License[/head]
 
@@ -315,7 +316,7 @@
 
 
 
-      [color=#AAAAAA]This License is void without the signature of the Holder and the signature and stamp of an NFSD senior officer or Frontier Civil Command.[/color]
+      [color=#AAAAAA]This License is void without the signature of the Holder and the signature and stamp of a CWO senior officer or Frontier Civil Command.[/color]
 
 - type: entity # Based on form made by Blumbee (Aki Suboshi) CS: added by fuzzy_fuzzy
   id: PaperWrittenNfsdContrabandPermit
@@ -324,8 +325,8 @@
   parent: Paper
   components:
   - type: Paper
-    content: |2 # If updating this, update PaperWrittenFrontierContrabandPermit
-             [color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+    content: |2 # If updating this, update PaperWrittenFrontierContrabandPermit # Kritters
+             [color=#4f6e40]◥[bold]N[/bold]◣ [bold]Coalition Warden's Office[/bold][/color]
              [color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
              [head=2]Class 3 Contraband Permit[/head]
 
@@ -342,7 +343,7 @@
 
 
 
-      [color=#AAAAAA]This permit is void without the signature of the Holder and the signature and stamp of an NFSD senior officer or Frontier Civil Command.[/color]
+      [color=#AAAAAA]This permit is void without the signature of the Holder and the signature and stamp of a CWO senior officer or Frontier Civil Command.[/color]
 
 - type: entity # Based on form made by Starly (Shaw Clifflower)
   id: PaperWrittenNfsdAuthorization
@@ -351,8 +352,8 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Paper
-    content: |2 # When updating this, update PaperWrittenFrontierAuthorization
-      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]New Frontier Sheriff's Department[/bold][/color]
+    content: |2 # When updating this, update PaperWrittenFrontierAuthorization # Kritters
+      [color=#4f6e40]◥[bold]N[/bold]◣ [bold]Coalition Warden's Office[/bold][/color]
       [color=#4f6e40]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
       [head=2]Authorization for Bluespace Threats[/head]
 
@@ -361,10 +362,10 @@
       [bold]Shift Time:[/bold]
 
       [bold]Issuing Frontier Command:[/bold]
-          [bullet]XXXXXXXX, Station Representative
-          [bullet]XXXXXXXX, NFSD senior staff
+          [bullet]XXXXXXXX, Superintendent
+          [bullet]XXXXXXXX, CWO senior staff
 
-      This document authorizes the above vessel and its captain to assist and cooperate with the NFSD and Frontier authorities in neutralizing hostile bluespace threats to Frontier. These include, but are not limited to
+      This document authorizes the above vessel and its captain to assist and cooperate with the CWO and Frontier authorities in neutralizing hostile bluespace threats to Frontier. These include, but are not limited to
           [bullet] Cultist vessels
           [bullet] Syndicate vessels
           [bullet] Wizard Federation vessels
@@ -372,15 +373,15 @@
 
       This document does NOT deputize the authorized party. The authorized party is not granted special privileges to arrest, detain, and prosecute individuals associated with Haven's Rest or TSF.
 
-      [bold]Any contraband seized during operations aboard hostile vessels must be surrendered, either to the NFSD or the Station Representative, for a cash bounty. Failure to surrender contraband will lead to the forfeiture of this agreement, and the authorized party may be liable for criminal charges.[/bold]
+      [bold]Any contraband seized during operations aboard hostile vessels must be surrendered, either to the CWO or the Superintendent, for a cash bounty. Failure to surrender contraband will lead to the forfeiture of this agreement, and the authorized party may be liable for criminal charges.[/bold]
 
-      The authorized party is to keep a copy of this document for inspection. The authorized party is expected to maintain contact with NFSD command and/or Frontier Civil Command to minimize casualties.
+      The authorized party is to keep a copy of this document for inspection. The authorized party is expected to maintain contact with CWO command and/or Frontier Civil Command to minimize casualties.
 
-      Before engaging with hostile vessels, the authorized party is expected to follow any instructions given by the NFSD for staging or other preparation prior to boarding.
+      Before engaging with hostile vessels, the authorized party is expected to follow any instructions given by the CWO for staging or other preparation prior to boarding.
 
 
 
-      [color=#AAAAAA]This Form is void without the signatures of both Parties and a stamp of an NFSD senior officer or Frontier Civil Command.[/color]
+      [color=#AAAAAA]This Form is void without the signatures of both Parties and a stamp of a CWO senior officer or Frontier Civil Command.[/color]
 
 - type: entity # Creator: Flick (Coyote Frontier)
   id: PaperWrittenNfsdSelfDutyLog
@@ -389,14 +390,14 @@
   parent: Paper
   components:
   - type: Paper
-    content: |2
+    content: |2 # Kritters
       [color=#CE8723]░████░[/color]
-      [color=#CE8723]░████░[/color] [head=1][color=#779148]NFSD Self-Clocking Form[/head][/color]
+      [color=#CE8723]░████░[/color] [head=1][color=#779148]CWO Self-Clocking Form[/head][/color]
       [color=#CE8723]░░██░░[/color] [head=3][color=#48562A]Internal - Administration use only[/head][/color]
 
       [head=2][color=#779148]Officer name:[/color] OFFICER NAME[/head]
       [head=3][color=#48562A]Departmental role:[/color] OFFICER ROLE[/head]
-      [italic][color=#DB0A2D]The above officer is to be paid at-request by NFSD senior staff when capable. The amount agreed upon payable per hour is:[/color][/italic] [bold][color=#FF0C39]$50,000[/color][/bold]
+      [italic][color=#DB0A2D]The above officer is to be paid at-request by CWO senior staff when capable. The amount agreed upon payable per hour is:[/color][/italic] [bold][color=#FF0C39]$50,000[/color][/bold]
 
       [head=2][color=#895A2D]First shift[/color][/head]
         •    Clock-in time:

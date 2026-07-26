@@ -1,3 +1,4 @@
+# Kritters
 # Author Info
 # GitHub: Mace70903
 # Discord: mace_70903
@@ -11,7 +12,7 @@
 - type: pointOfInterest
   id: Nfsd
   parent: BasePOI
-  name: 'NFSD Outpost'
+  name: 'CWO Outpost' # Kritters
   minimumDistance: 750
   maximumDistance: 1000
   spawnGroup: Required
@@ -25,7 +26,7 @@
 
 - type: gameMap
   id: Nfsd
-  mapName: 'NFSD Outpost'
+  mapName: 'CWO Outpost' # Kritters
   mapPath: /Maps/_NF/POI/nfsd.yml
   minPlayers: 0
   stations:
@@ -33,7 +34,7 @@
       stationProto: SecurityFrontierOutpost
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'NFSD Outpost'
+          mapNameTemplate: 'CWO Outpost' # Kritters
         - type: ExtraStationInformation
           iconPath: /Textures/_NF/Interface/StationIcons/nfsd-banner.png
           stationSubtext: 'frontier-lobby-nfsd-subtext'

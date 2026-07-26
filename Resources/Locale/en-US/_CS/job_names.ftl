@@ -1,5 +1,4 @@
-job-name-food-service = Service Worker
-job-description-food-service = Handle any and all things related to civil service, from growing crops, to serving food, to even just entertaining others and making life interesting. Your job is to keep the frontier alive and worth living, essentially a mix of Botany, Chef, and 'Entertainer'. Comes with a voucher for a free service-related ship, and a bonus to your periodic Payward Incentive!
+# Kritters
 job-supervisors-food-service = the Frontier FDA
 
 job-name-massage-therapist = Massage Therapist
@@ -13,10 +12,9 @@ job-supervisors-companion = the Frontier Wellness Council, and horny people ever
 
 job-name-journalist = Reporter
 job-description-journalist = Document and report on the happenings of the frontier. Your role is crucial in keeping the public informed and engaged with current events. As a journalist, you have access to exclusive information and are often the first to know about significant developments. You also get paid more for writing cool interesting articles on your PDA!
+# Kritters
 job-supervisors-journalist = the Frontier News Network, and horny people everywhere
 
-job-name-medical-nurse  = Medical Nurse
-job-description-medical-nurse = Assist in providing medical care and support to patients. Your responsibilities include monitoring vital signs, administering medications, and ensuring the overall well-being of those under your care. As a medical nurse, you play a vital role in the healthcare team, contributing to the recovery and health of the crew and passengers. You also receive a bonus to your Payward Incentive for being in such an important role!
 job-supervisors-medical-nurse = the Frontier Wellness Council, and horny people everywhere
 
 job-supervisors-chaplain = your chosen God.
@@ -36,10 +34,6 @@ job-name-escort = Escort
 job-description-escort = Engage in the age-old profession of providing companionship and pleasure to those willing to pay. As a pirate prostitute, you navigate the fringes of society, offering your services to a diverse clientele. Your role is both lucrative and adventurous, allowing you to explore the depths of human desire while earning a handsome income. You also receive a bonus to your Payward Incentive for your daring profession!
 
 job-name-ripperdoc = RipperDoc
+# Kritters
 job-description-ripperdoc = Practice, for lack of a better word, medicine on anyone who will let you. Patch up your fellow freelancers, and maybe hold a resident or two hostage till they pay you for reviving them.
-
-job-name-secretary = Station Secretary
-job-description-secretary = Manage the administrative tasks of the station, direct the flow of traffic, put on a pleasing face for the station, and be the important person you know you are. You also get a bonus to your Payward Incentive for being such an essential part of station operations! Bunny ears not required, but highly encouraged.
-job-supervisors-secretary = The Station Representative, and horny people everywhere
-
 

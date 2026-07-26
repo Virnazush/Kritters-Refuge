@@ -1,3 +1,4 @@
+# Kritters
 # Author Info
 # GitHub: dustylens
 # Discord: dustylens
@@ -11,7 +12,7 @@
 - type: pointOfInterest
   id: Medical
   parent: BasePOI
-  name: 'St. Micheals Hospital'
+  name: 'Nightingale General Hospital' # Kritters
   minimumDistance: 750
   maximumDistance: 1000
   spawnGroup: Required
@@ -25,7 +26,7 @@
 
 - type: gameMap
   id: Medical
-  mapName: 'St. Micheals Hospital'
+  mapName: 'Nightingale General Hospital' # Kritters
   mapPath: /Maps/_NF/POI/medical.yml
   minPlayers: 0
   stations:
@@ -33,7 +34,7 @@
       stationProto: RecordsFrontierOutpost
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'St. Micheals Hospital'
+          mapNameTemplate: 'Nightingale General Hospital' # Kritters
         - type: ExtraStationInformation
           iconPath: /Textures/_NF/Interface/StationIcons/medic.png
           stationSubtext: 'frontier-lobby-medical-subtext'

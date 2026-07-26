@@ -1,9 +1,10 @@
+# Kritters
 - type: job
   id: PrisonGuard
   name: job-name-guard
   description: job-description-guard
   playTimeTracker: JobPrisonGuard
-  setPreference: false # Frontier - Restore this ones we have a jail
+  setPreference: true # Kritters: selectable from the Legacy Roles category.
   requirements:
     - !type:DepartmentTimeRequirement
       department: Security

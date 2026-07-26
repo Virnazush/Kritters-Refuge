@@ -1,9 +1,10 @@
+# Kritters
 - type: job
   id: ResearchDirector
   name: job-name-rd
   description: job-description-rd
   playTimeTracker: JobResearchDirector
-  setPreference: false # Frontier
+  setPreference: true # Kritters
   requirements:
   - !type:RoleTimeRequirement
     role: JobScientist

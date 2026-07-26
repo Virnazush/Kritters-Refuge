@@ -1,0 +1,112 @@
+- type: department
+  id: Frontier
+  name: department-Frontier
+  description: department-Frontier-description
+  color: "#334E6D"
+  weight: 80
+  roles:
+  - StationRepresentative
+  - Accountant
+  - Secretary
+  - StationTrafficController
+
+- type: department
+  id: Security
+  name: department-Security
+  description: department-Security-description
+  color: "#5C7D4D"
+  weight: 70
+  roles:
+  - Sheriff
+  - Bailiff
+  - SeniorOfficer
+  - Deputy
+
+- type: department
+  id: Engineering
+  name: department-Engineering
+  description: department-Engineering-description
+  color: "#EFB341"
+  weight: 60
+  roles:
+  - PlantManager
+  - PlantTechnician
+
+- type: department
+  id: FoodService
+  name: department-FoodService
+  description: department-FoodService-description
+  color: "#C38312"
+  weight: 50
+  roles:
+  - Chef
+  - Botanist
+  - Bartender
+  - FoodService
+
+- type: department
+  id: Science
+  name: department-Science
+  description: department-Science-description
+  color: "#D381C9"
+  weight: 40
+  roles:
+  - ResearchDirector
+  - Scientist
+
+- type: department
+  id: Supply
+  name: department-Supply
+  description: department-Supply-description
+  color: "#A46106"
+  weight: 30
+  roles:
+  - Quartermaster
+  - CargoTechnician
+
+- type: department
+  id: Medical
+  name: department-Medical
+  description: department-Medical-description
+  color: "#52B4E9"
+  weight: 20
+  roles:
+  - DirectorOfCare
+  - Chemist
+  - MedicalDoctor
+  - MedicalNurse
+  - Chaplain
+
+- type: department
+  id: Civilian
+  name: department-Civilian
+  description: department-Civilian-description
+  color: "#9FED58"
+  weight: 10
+  roles:
+  - Contractor
+  - Pilot
+  - Mercenary
+  - Borg
+
+- type: department
+  id: TransitionalRoles
+  name: department-TransitionalRoles
+  description: department-TransitionalRoles-description
+  color: "#808080"
+  weight: -100
+  roles:
+  - SecurityGuard
+  - PrisonGuard
+  - Brigmedic
+  - NFDetective
+  - Cadet
+  - PublicAffairsLiaison
+  - Valet
+  - NFJanitor
+  - MailCarrier
+  - Therapist
+  - Journalist
+  - MassageTherapist
+  - Companion
+  - Curator

@@ -1,5 +1,6 @@
 <!-- _CS Start -->
 <Document>
+# Kritters
   # Cargo Bounties
   While [textlink="Cargo" link="Cargo"] can make [color=cyan]credits[/color] selling just about anything, more credits can be made by fulfilling [color=cyan]bounties[/color] found through the Cargo Bounty Computer.
 
@@ -12,9 +13,9 @@
 
   To start a bounty, open the bounty screen by interacting with the [color=cyan]Cargo Bounty Computer[/color]. The Cargo Bounty Computer maintains a list of all the current bounties and lets you either print out a label or skip it.
 
-  - Printing the label gives you a [color=cyan]Bounty Manifest[/color] listing the goods that need to be acquired. You can print out infinite Bounty Manifests, so ensure you are not repeating the same work as another Cargo Technician.
+  - Printing the label gives you a [color=cyan]Bounty Manifest[/color] listing the goods that need to be acquired. You can print out infinite Bounty Manifests, so ensure you are not repeating the same work as another Supply Specialist.
 
-  - Skipping a bounty replaces that bounty with a new one, as there can only be six active bounties at any time. Skipping has a 15-minute cooldown and voids that bounty, which may anger other Cargo Technicians working on it.
+  - Skipping a bounty replaces that bounty with a new one, as there can only be six active bounties at any time. Skipping has a 15-minute cooldown and voids that bounty, which may anger other Supply Specialists working on it.
 
   ## Fulfilling Bounties
 

@@ -1,0 +1,12 @@
+- type: entity
+  id: SpawnPointSecurityGuard
+  parent: SpawnPointJobBase
+  name: deputy warden
+  components:
+  - type: SpawnPoint
+    job_id: Deputy
+  - type: Sprite
+    sprite: _NF/Markers/jobs.rsi
+    layers:
+    - state: green
+    - state: securityguard
