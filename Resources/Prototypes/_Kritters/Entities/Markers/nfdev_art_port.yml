@@ -1,0 +1,21 @@
+- type: startingGear
+  id: KrittersNFDevArtPortGear
+  equipment:
+    head: ClothingHeadHelmetBasic
+    jumpsuit: ClothingUniformJumpsuitSec
+    outerClothing: ClothingOuterArmorBasic
+    gloves: ClothingHandsGlovesCaptain
+    shoes: ClothingShoesBootsJack
+    belt: ClothingBeltSecurity
+    back: ClothingBackpackSecurity
+
+- type: entity
+  parent: MobCivilian
+  id: KrittersNFDevArtPortMannequin
+  name: art-port mannequin
+  description: A static reference for checking a complete outfit from every direction.
+  suffix: NFDev, Visual Validation
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: Loadout
+    prototypes: [ KrittersNFDevArtPortGear ]

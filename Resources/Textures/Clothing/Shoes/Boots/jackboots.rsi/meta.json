@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/7e4e9d432d88981fb9bb463970c5b98ce85c0abe. equipped-FEET-vox state taken from vgstation13 at https://github.com/vgstation-coders/vgstation13/blob/31d6576ba8102135d058ef49c3cb6ecbe8db8a79/icons/mob/species/vox/shoes.dmi",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/7e4e9d432d88981fb9bb463970c5b98ce85c0abe. equipped-FEET-vox state taken from vgstation13 at https://github.com/vgstation-coders/vgstation13/blob/31d6576ba8102135d058ef49c3cb6ecbe8db8a79/icons/mob/species/vox/shoes.dmi; Replacement states from Shiptest contributors; equipped-FEET from icons/mob/clothing/feet.dmi:jackboots, icon from icons/obj/clothing/shoes.dmi:jackboots, inhand-left from icons/mob/inhands/clothing/shoes_lefthand.dmi:jackboots, inhand-right from icons/mob/inhands/clothing/shoes_righthand.dmi:jackboots; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
   "size": {
     "x": 32,
     "y": 32

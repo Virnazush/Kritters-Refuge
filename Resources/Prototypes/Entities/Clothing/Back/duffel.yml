@@ -229,7 +229,7 @@
     slot: [back]
     default: ClothingBackpackDuffelHolding # End Coyote
   - type: Sprite
-    sprite: _NF/Clothing/Back/Duffels/holding.rsi # Frontier
+    sprite: Clothing/Back/Duffels/holding.rsi # Kritters: use standard asset
     state: icon
     layers:
     - state: icon
@@ -254,7 +254,7 @@
   #   sprintModifier: 1 # makes its stats identical to other variants of bag of holding
   # - type: HeldSpeedModifier ## Coyote: ]
   - type: Clothing # Frontier
-    sprite: _NF/Clothing/Back/Duffels/holding.rsi # Frontier
+    sprite: Clothing/Back/Duffels/holding.rsi # Kritters: use standard asset
     clothingVisuals: # Frontier
       back: # Frontier
       - state: equipped-BACKPACK # Frontier

@@ -101,12 +101,12 @@
     tags:
     - Wrench
   - type: Sprite
-    sprite: _NF/Objects/Tools/wrench.rsi # Frontier: separate sprites (add _NF folder)
+    sprite: Objects/Tools/wrench.rsi # Kritters: use standard asset
     state: icon
   - type: Item
-    sprite: _NF/Objects/Tools/wrench.rsi # Frontier: separate sprites (add _NF folder)
+    sprite: Objects/Tools/wrench.rsi # Kritters: use standard asset
     storedSprite:
-      sprite: _NF/Objects/Tools/wrench.rsi # Frontier: separate sprites (add _NF folder)
+      sprite: Objects/Tools/wrench.rsi # Kritters: use standard asset
       state: storage
   - type: MeleeWeapon
     wideAnimationRotation: 135
@@ -140,7 +140,7 @@
     sound:
       path: /Audio/Items/multitool_drop.ogg
   - type: Sprite
-    sprite: _NF/Objects/Tools/multitool.rsi # Frontier: separate sprites (add _NF folder)
+    sprite: Objects/Tools/multitool.rsi # Kritters: use standard asset
     layers:
     - state: icon
     - state: green-unlit
@@ -148,7 +148,7 @@
   - type: Item
     size: Small
   - type: Clothing
-    sprite: _NF/Objects/Tools/multitool.rsi # Frontier: separate sprites (add _NF folder)
+    sprite: Objects/Tools/multitool.rsi # Kritters: use standard asset
     quickEquip: false
     slots:
     - Belt

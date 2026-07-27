@@ -1,1 +1,46 @@
-{"version": 1, "size": {"x": 32, "y": 32}, "license": "CC-BY-SA-3.0", "copyright": "https://github.com/vgstation-coders/vgstation13/raw/99cc2ab62d65a3a7b554dc7b21ff5f57c835f973/icons/turf/walls.dmi", "states": [{"name": "full"}, {"name": "silver0", "directions": 4}, {"name": "silver1", "directions": 4}, {"name": "silver2", "directions": 4}, {"name": "silver3", "directions": 4}, {"name": "silver4", "directions": 4}, {"name": "silver5", "directions": 4}, {"name": "silver6", "directions": 4}, {"name": "silver7", "directions": 4}]}
+{
+  "version": 1,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Wall smoothing artwork converted from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c (https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/walls/silver_wall.dmi); Shiptest and /tg/station contributors. The 47-state donor adjacency contract was converted to the existing eight-state, four-direction RSI IconSmooth contract.",
+  "states": [
+    {
+      "name": "full"
+    },
+    {
+      "name": "silver0",
+      "directions": 4
+    },
+    {
+      "name": "silver1",
+      "directions": 4
+    },
+    {
+      "name": "silver2",
+      "directions": 4
+    },
+    {
+      "name": "silver3",
+      "directions": 4
+    },
+    {
+      "name": "silver4",
+      "directions": 4
+    },
+    {
+      "name": "silver5",
+      "directions": 4
+    },
+    {
+      "name": "silver6",
+      "directions": 4
+    },
+    {
+      "name": "silver7",
+      "directions": 4
+    }
+  ]
+}

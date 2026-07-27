@@ -1,46 +1,46 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from https://github.com/tgstation/tgstation/commit/9dbe3253d0bc712e086ec6b5bc4a7fd69bdf337f#diff-a93b44bf8dd39fddb41a69ad1c2dd2d294244b7a46fa885ac6023ed8cdb54080 and modified.",
+  "copyright": "Wall smoothing artwork converted from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c (https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/walls/boss_wall.dmi); Shiptest and /tg/station contributors. The 47-state donor adjacency contract was converted to the existing eight-state, four-direction RSI IconSmooth contract.",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
-	  {
+    {
       "name": "full"
-    }, 
-	  {
+    },
+    {
       "name": "necropolis0",
-	    "directions": 4
+      "directions": 4
     },
-	  {
+    {
       "name": "necropolis1",
-	    "directions": 4
+      "directions": 4
     },
-	  {
+    {
       "name": "necropolis2",
-	    "directions": 4
+      "directions": 4
     },
-	  {
+    {
       "name": "necropolis3",
-	    "directions": 4
+      "directions": 4
     },
-	  {
+    {
       "name": "necropolis4",
-	    "directions": 4
+      "directions": 4
     },
-	  {
+    {
       "name": "necropolis5",
-	    "directions": 4
+      "directions": 4
     },
-	  {
+    {
       "name": "necropolis6",
-	    "directions": 4
+      "directions": 4
     },
-	  {
+    {
       "name": "necropolis7",
-	    "directions": 4
+      "directions": 4
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tgstation. icon from https://github.com/tgstation/tgstation/commit/c4ce2e965d33f3491173964fcbee3e43c0839bae , inhand-left and inhand-right from https://github.com/tgstation/tgstation/commit/a340fbac628722955b98c7d082bb8a3bb3ef664b , equipped-BACKPACK from https://github.com/tgstation/tgstation/commit/f13f1fba5350c90d1f09476471bb1cc296f0ad3b",
+  "copyright": "Taken from tgstation. icon from https://github.com/tgstation/tgstation/commit/c4ce2e965d33f3491173964fcbee3e43c0839bae , inhand-left and inhand-right from https://github.com/tgstation/tgstation/commit/a340fbac628722955b98c7d082bb8a3bb3ef664b , equipped-BACKPACK from https://github.com/tgstation/tgstation/commit/f13f1fba5350c90d1f09476471bb1cc296f0ad3b; Replacement states from Shiptest contributors; equipped-BACKPACK from icons/mob/clothing/back/backpacks.dmi:satchel, icon from icons/obj/clothing/back/backpacks.dmi:satchel, inhand-left from icons/mob/inhands/equipment/backpack_lefthand.dmi:satchel, inhand-right from icons/mob/inhands/equipment/backpack_righthand.dmi:satchel; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c; leather satchel resprite by thearbiber",
   "size": {
     "x": 32,
     "y": 32

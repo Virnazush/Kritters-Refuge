@@ -2,6 +2,7 @@
   "version": 1,
   "license": "CC-BY-SA-3.0",
   "copyright": "Made by PixelTheKermit (github) for SS14. Inhands by mubururu_ (github).",
+  "extra_copyright": ["The icon state is taken from Shiptest icons/obj/stack_objects.dmi at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c."],
   "size": {"x": 32, "y": 32},
   "states":
   [

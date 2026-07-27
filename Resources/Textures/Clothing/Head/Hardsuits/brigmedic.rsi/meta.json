@@ -1,65 +1,65 @@
 {
-    "version": 1,
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Made by PuroSlavKing (github) for SS14",
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by PuroSlavKing (github) for SS14; Replacement states from Shiptest contributors; icon from icons/obj/clothing/head/spacesuits.dmi:hardsuit0-combatmedic, off-equipped-HELMET from icons/mob/clothing/head/spacesuits.dmi:hardsuit0-combatmedic, on-equipped-HELMET from icons/mob/clothing/head/spacesuits.dmi:hardsuit0-combatmedic with retained light delta; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
     },
-    "states": [
-        {
-            "name": "icon"
-        },
-        {
-            "name": "icon-flash"
-        },
-        {
-            "name": "off-equipped-HELMET",
-            "directions": 4
-        },
-        {
-            "name": "off-equipped-HELMET-vulpkanin",
-            "directions": 4
-        },
-        {
-            "name": "off-inhand-left",
-            "directions": 4
-        },
-        {
-            "name": "off-inhand-right",
-            "directions": 4
-        },
-        {
-            "name": "on-equipped-HELMET",
-            "directions": 4
-        },
-        {
-            "name": "on-equipped-HELMET-vulpkanin",
-            "directions": 4
-        },
-        {
-            "name": "on-inhand-left",
-            "directions": 4
-        },
-        {
-            "name": "on-inhand-right",
-            "directions": 4
-        },
-        {
-            "name": "on-equipped-HELMET-resomi",
-            "directions": 4
-        },
-        {
-            "name": "off-equipped-HELMET-resomi",
-            "directions": 4
-        },
-        {
-            "name": "on-equipped-HELMET-avali",
-            "directions": 4
-        },
-        {
-            "name": "off-equipped-HELMET-avali",
-            "directions": 4
-        }
-    ]
+    {
+      "name": "icon-flash"
+    },
+    {
+      "name": "off-equipped-HELMET",
+      "directions": 4
+    },
+    {
+      "name": "off-equipped-HELMET-vulpkanin",
+      "directions": 4
+    },
+    {
+      "name": "off-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "off-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "on-equipped-HELMET",
+      "directions": 4
+    },
+    {
+      "name": "on-equipped-HELMET-vulpkanin",
+      "directions": 4
+    },
+    {
+      "name": "on-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "on-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "on-equipped-HELMET-resomi",
+      "directions": 4
+    },
+    {
+      "name": "off-equipped-HELMET-resomi",
+      "directions": 4
+    },
+    {
+      "name": "on-equipped-HELMET-avali",
+      "directions": 4
+    },
+    {
+      "name": "off-equipped-HELMET-avali",
+      "directions": 4
+    }
+  ]
 }

@@ -83,5 +83,8 @@
     {
       "name": "permafrost"
     }
-  ]
+  ],
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Shiptest contributors; converted snow artwork, including the snow0 through snow12 states, and the ice_turf-255 ice artwork taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c.",
+  "source": "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/snow.dmi and https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors/ice_turf.dmi"
 }

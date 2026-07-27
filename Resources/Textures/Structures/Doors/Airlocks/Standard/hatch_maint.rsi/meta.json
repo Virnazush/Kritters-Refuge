@@ -1,198 +1,221 @@
 {
-    "version": 1,
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from Paradise Station 13 at commit https://github.com/ParadiseSS13/Paradise/commit/9312f1fb7dcdf1c195e255a528f31092613fb60d. assembly, closed, closing, open, opening, panel_open modified by K-Dynamic (github).",
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Airlock artwork and animations converted from Shiptest and /tg/station contributors at https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/obj/doors/airlocks/hatch/maintenance.dmi, https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/obj/doors/airlocks/hatch/overlays.dmi. Donor layers were flattened where required while preserving Kritters' one-direction RSI contract. Retained unmapped states: Taken from paradise station at commit https://github.com/ParadiseSS13/Paradise/commit/9312f1fb7dcdf1c195e255a528f31092613fb60d, Resprite by KREKS",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "assembly"
     },
-    "states": [
-        {
-            "name": "assembly"
-        },
-        {
-            "name": "bolted_unlit"
-        },
-        {
-            "name": "closed"
-        },
-        {
-            "name": "closed_unlit"
-        },
-        {
-            "name": "closing",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1
-                ]
-            ]
-        },
-        {
-            "name": "closing_unlit",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1
-                ]
-            ]
-        },
-        {
-            "name": "deny_unlit",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1
-                ]
-            ]
-        },
-        {
-            "name": "open",
-            "delays": [
-                [
-                    1
-                ]
-            ]
-        },
-        {
-            "name": "opening",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1
-                ]
-            ]
-        },
-        {
-            "name": "opening_unlit",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1
-                ]
-            ]
-        },
-        {
-            "name": "panel_closing",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1
-                ]
-            ]
-        },
-        {
-            "name": "panel_open",
-            "delays": [
-                [
-                    1
-                ]
-            ]
-        },
-        {
-            "name": "panel_opening",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1
-                ]
-            ]
-        },
-        {
-            "name": "sparks",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1
-                ]
-            ]
-        },
-        {
-            "name": "sparks_broken",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1
-                ]
-            ]
-        },
-        {
-            "name": "sparks_damaged",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    1.7
-                ]
-            ]
-        },
-        {
-            "name": "sparks_open",
-            "delays": [
-                [
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1,
-                    0.1
-                ]
-            ]
-        },
-        {
-            "name": "welded"
-        },
-        {
-            "name": "emergency_unlit",
-            "delays": [
-                [
-                    0.4,
-                    0.4
-                ]
-            ]
-        }
-    ]
+    {
+      "name": "bolted_unlit"
+    },
+    {
+      "name": "closed"
+    },
+    {
+      "name": "closed_unlit"
+    },
+    {
+      "name": "closing",
+      "delays": [
+        [
+          0.1,
+          0.05,
+          0.05,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.05,
+          0.05,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "closing_unlit",
+      "delays": [
+        [
+          0.1,
+          0.05,
+          0.05,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.05,
+          0.05,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "deny_unlit",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "open"
+    },
+    {
+      "name": "opening",
+      "delays": [
+        [
+          0.1,
+          0.05,
+          0.05,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.05,
+          0.05,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "opening_unlit",
+      "delays": [
+        [
+          0.1,
+          0.05,
+          0.05,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.05,
+          0.05,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "panel_closing",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "panel_open"
+    },
+    {
+      "name": "panel_opening",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "sparks",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "sparks_broken",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          1.7
+        ]
+      ]
+    },
+    {
+      "name": "sparks_damaged",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "sparks_open",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "welded"
+    },
+    {
+      "name": "emergency_unlit",
+      "delays": [
+        [
+          1.2,
+          1.2
+        ]
+      ]
+    }
+  ]
 }

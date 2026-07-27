@@ -124,4 +124,5 @@
   - type: Tag
     tags:
       - HighSecDoor
+      - ForceNoFixRotations
       # This tag is used to nagivate the Airlock construction graph. It's needed because this construction graph is shared between Airlock, AirlockGlass, and HighSecDoor

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from vgstation at https://github.com/vgstation-coders/vgstation13/commit/1cdfb0230cc96d0ba751fa002d04f8aa2f25ad7d",
+  "copyright": "Taken from vgstation at https://github.com/vgstation-coders/vgstation13/commit/1cdfb0230cc96d0ba751fa002d04f8aa2f25ad7d. The screwdriver, screwdriver-map, screwdriver-screwybits, inhand-left, and inhand-right states are taken from Shiptest at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c from icons/obj/tools.dmi and icons/mob/inhands/equipment/tools_lefthand.dmi and tools_righthand.dmi; the in-hand base and head layers were composited to preserve the target contract.",
   "size": {
     "x": 32,
     "y": 32

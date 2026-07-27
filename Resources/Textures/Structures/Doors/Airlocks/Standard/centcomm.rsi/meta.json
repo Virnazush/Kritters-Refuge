@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/58e5354cdbc304847c9ef20963320d21f418b58e and edited by Nairod(github) for SS14",
+  "copyright": "Airlock artwork and animations converted from Shiptest and /tg/station contributors at https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/obj/doors/airlocks/centcom/centcom.dmi, https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/obj/doors/airlocks/centcom/overlays.dmi. Donor layers were flattened where required while preserving Kritters' one-direction RSI contract. Retained unmapped states: Taken from https://github.com/ParadiseSS13/Paradise/",
   "size": {
     "x": 32,
     "y": 32
@@ -24,11 +24,20 @@
       "delays": [
         [
           0.1,
-          0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
+          0.05,
+          0.05,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.05,
+          0.05,
+          0.1
         ]
       ]
     },
@@ -37,16 +46,82 @@
       "delays": [
         [
           0.1,
-          0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
+          0.05,
+          0.05,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.05,
+          0.05,
+          0.1
         ]
       ]
     },
     {
       "name": "deny_unlit",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "open"
+    },
+    {
+      "name": "opening",
+      "delays": [
+        [
+          0.1,
+          0.05,
+          0.05,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.05,
+          0.05,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "opening_unlit",
+      "delays": [
+        [
+          0.1,
+          0.05,
+          0.05,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.01,
+          0.05,
+          0.05,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "panel_closing",
       "delays": [
         [
           0.1,
@@ -59,59 +134,7 @@
       ]
     },
     {
-      "name": "open",
-      "delays": [
-        [
-          1
-        ]
-      ]
-    },
-    {
-      "name": "opening",
-      "delays": [
-        [
-          0.1,
-          0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
-        ]
-      ]
-    },
-    {
-      "name": "opening_unlit",
-      "delays": [
-        [
-          0.1,
-          0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
-        ]
-      ]
-    },
-    {
-      "name": "panel_closing",
-      "delays": [
-        [
-          0.1,
-          0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
-        ]
-      ]
-    },
-    {
-      "name": "panel_open",
-      "delays": [
-        [
-          1
-        ]
-      ]
+      "name": "panel_open"
     },
     {
       "name": "panel_opening",
@@ -119,10 +142,10 @@
         [
           0.1,
           0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
+          0.1,
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
@@ -148,7 +171,8 @@
           0.1,
           0.1,
           0.1,
-          0.1
+          0.1,
+          1.7
         ]
       ]
     },
@@ -161,8 +185,7 @@
           0.1,
           0.1,
           0.1,
-          0.1,
-          1.7
+          0.1
         ]
       ]
     },
@@ -186,8 +209,8 @@
       "name": "emergency_unlit",
       "delays": [
         [
-          0.4,
-          0.4
+          1.2,
+          1.2
         ]
       ]
     }

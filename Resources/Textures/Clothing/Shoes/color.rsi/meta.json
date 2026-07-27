@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039 and modified by Flareguy for Space Station 14",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/c838ba21dae97db345e0113f99596decd1d66039 and modified by Flareguy for Space Station 14; icon, equipped-FEET, inhand-left, and inhand-right replaced with states converted from Shiptest icons/obj/clothing/feet/color.dmi, icons/mob/clothing/feet/color.dmi, icons/mob/inhands/clothing/shoes_lefthand.dmi, and icons/mob/inhands/clothing/shoes_righthand.dmi at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
   "size": {
     "x": 32,
     "y": 32

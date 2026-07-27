@@ -2,10 +2,10 @@
   "version": 1,
   "size": {
     "x": 32,
-    "y": 32
+    "y": 34
   },
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from https://github.com/tgstation/tgstation/blob/HEAD/icons/obj/structures.dmi",
+  "copyright": "Taken from Shiptest at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c and adapted to the existing corner-smoothing contract",
   "states": [
     {
       "name": "full",

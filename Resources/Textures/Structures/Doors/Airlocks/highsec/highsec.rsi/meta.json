@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tg station at commit https://github.com/tgstation/tgstation/commit/6f450d93a6bfcc94e9c43ef7938e85bda49f7b6f",
+  "copyright": "Airlock artwork and animations converted from Shiptest and /tg/station contributors at https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/obj/doors/airlocks/highsec/highsec.dmi, https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/obj/doors/airlocks/highsec/overlays.dmi. Donor layers were flattened where required while preserving Kritters' one-direction RSI contract. Retained unmapped states: Taken from tg station at commit https://github.com/tgstation/tgstation/commit/6f450d93a6bfcc94e9c43ef7938e85bda49f7b6f",
   "size": {
     "x": 32,
     "y": 32
@@ -25,12 +25,12 @@
         [
           0.1,
           0.1,
-          0.07,
-          0.07,
-          0.07,
-	      0.07,
-          0.07,
-          0.2
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
@@ -40,12 +40,12 @@
         [
           0.1,
           0.1,
-          0.07,
-          0.07,
-          0.07,
-     	  0.07,
-          0.07,
-          0.2
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
@@ -68,12 +68,12 @@
         [
           0.1,
           0.1,
-          0.07,
-          0.07,
-          0.07,
-	      0.07,
-          0.07,
-          0.2
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
@@ -83,12 +83,12 @@
         [
           0.1,
           0.1,
-          0.07,
-          0.07,
-          0.07,
-	      0.07,
-          0.07,
-          0.2
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
@@ -98,10 +98,12 @@
         [
           0.1,
           0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
@@ -114,10 +116,12 @@
         [
           0.1,
           0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
@@ -181,8 +185,8 @@
       "name": "emergency_unlit",
       "delays": [
         [
-          0.4,
-          0.4
+          1.2,
+          1.2
         ]
       ]
     }

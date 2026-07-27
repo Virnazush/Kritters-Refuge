@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Made by ps3moira (github)",
+  "copyright": "Made by ps3moira (github); Replacement states from Shiptest contributors; converted from icons/mob/inhands/equipment/briefcase_lefthand.dmi, icons/mob/inhands/equipment/briefcase_righthand.dmi, icons/obj/storage.dmi at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
   "size": {
     "x": 32,
     "y": 32

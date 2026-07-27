@@ -405,7 +405,7 @@
   categories: [ DoNotMap ]
   components:
   - type: Sprite
-    sprite: _NF/Objects/Specific/Medical/healing_toolbox.rsi # Frontier: _NF prefix
+    sprite: Objects/Specific/Medical/healing_toolbox.rsi # Kritters: use standard asset
     state: icon
   - type: Healing
     damageContainers:

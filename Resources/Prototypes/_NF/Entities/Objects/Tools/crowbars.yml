@@ -22,15 +22,18 @@
   - type: StaticPrice
     price: 11
   - type: Sprite
+    sprite: _NF/Objects/Tools/crowbar.rsi
     layers:
     - state: pocket-icon
   - type: Clothing
+    sprite: _NF/Objects/Tools/crowbar.rsi
     clothingVisuals:
       belt:
       - state: equipped-BELT # Should be brighter, smaller
       - state: cover-equipped-BELT
         color: "#2e2e2e"
   - type: Item
+    sprite: _NF/Objects/Tools/crowbar.rsi
     storedSprite:
       state: pocket-icon # Not properly rotated.
       sprite: _NF/Objects/Tools/crowbar.rsi

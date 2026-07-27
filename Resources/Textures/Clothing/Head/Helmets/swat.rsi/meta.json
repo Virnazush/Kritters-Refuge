@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/d90c7e5de6f6d94596c164da78dbc8d3cd35bb99 and modified by Flareguy for SS14",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/d90c7e5de6f6d94596c164da78dbc8d3cd35bb99 and modified by Flareguy for SS14; Replacement states from Shiptest contributors; equipped-HELMET from icons/mob/clothing/head/armor.dmi:swat, icon from icons/obj/clothing/head/armor.dmi:swat; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
   "size": {
     "x": 32,
     "y": 32

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Modified from https://github.com/tgstation/tgstation/commit/571e401e19514e8b0216e2efbbc95302007bfe9c by potato1234x (Github) for SS14",
+  "copyright": "Modified from https://github.com/tgstation/tgstation/commit/571e401e19514e8b0216e2efbbc95302007bfe9c by potato1234x (Github) for SS14. Converted crate artwork taken from Shiptest icons/obj/crates.dmi at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c.",
   "size": {
     "x": 32,
     "y": 32

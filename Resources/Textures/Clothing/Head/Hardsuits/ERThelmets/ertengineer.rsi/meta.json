@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/f09526480788c2e18fff8c16c4318fd6b4272c10. Vox states by Flareguy for Space Station 14",
+  "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/f09526480788c2e18fff8c16c4318fd6b4272c10. Vox states by Flareguy for Space Station 14; Replacement states from Shiptest contributors; icon from icons/obj/clothing/head/spacesuits.dmi:hardsuit0-ert_engineer, icon-flash from delta icons/obj/clothing/head/spacesuits.dmi:hardsuit0-ert_engineer -> hardsuit1-ert_engineer, off-equipped-HELMET from icons/mob/clothing/head/spacesuits.dmi:hardsuit0-ert_engineer, on-equipped-HELMET from icons/mob/clothing/head/spacesuits.dmi:hardsuit1-ert_engineer; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
   "size": {
     "x": 32,
     "y": 32

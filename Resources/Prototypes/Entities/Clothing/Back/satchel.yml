@@ -178,7 +178,7 @@
     slot: [back]
     default: ClothingBackpackSatchelHolding # End Coyote
   - type: Sprite
-    sprite: _NF/Clothing/Back/Satchels/holding.rsi # Frontier
+    sprite: Clothing/Back/Satchels/holding.rsi # Kritters: use standard asset
     state: icon
     layers:
     - state: icon
@@ -200,7 +200,7 @@
   #   grid:
   #   - 0,0,7,7 # Frontier: Was 0,0,19,9 ## Coyote: ]
   - type: Clothing # Frontier
-    sprite: _NF/Clothing/Back/Satchels/holding.rsi # Frontier
+    sprite: Clothing/Back/Satchels/holding.rsi # Kritters: use standard asset
     clothingVisuals: # Frontier
       back: # Frontier
       - state: equipped-BACKPACK # Frontier

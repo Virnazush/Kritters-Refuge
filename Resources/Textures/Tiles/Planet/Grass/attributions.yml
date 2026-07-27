@@ -1,4 +1,9 @@
-- files: ["grass.png", "triple_edge.png", "double_edge.png", "single_edge.png"]
+- files: ["triple_edge.png", "double_edge.png", "single_edge.png"]
   license: "CC-BY-SA-3.0"
   copyright: "tgstation commit 8abb19545828230d92ba18827feeb42a67a55d49. double_edge, single_edge, and triple_edge modified from grass by github user @Flareguy"
   source: "https://github.com/space-wizards/space-station-14/pull/27912"
+
+- files: ["grass.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; grass-255 and grassalt_1 through grassalt_3 taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c. The 70-by-70 source canvases were cropped to their exact 32-by-32 sprite bounds, and Shiptest's runtime variation overlays were flattened over the base state to preserve the existing four-variant SS14 contract. The donor artwork retains /tg/station lineage."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors/grass.dmi"

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from vgstation at commit https://github.com/vgstation-coders/vgstation13/commit/a138859aec54b20dac65eb76e94e9db1b2202f55 and modified by Swept",
+  "copyright": "Taken from Shiptest at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c and adapted to the existing corner-smoothing contract",
   "size": {
     "x": 32,
     "y": 32

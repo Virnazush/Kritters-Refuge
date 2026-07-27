@@ -5,7 +5,7 @@
   parent: [ BaseStorageItem, BaseBagOpenClose, NotContraband ] # Frontier: BaseC4Contraband<BaseC2ContrabandUnredeemable
   components:
   - type: Sprite
-    sprite: _NF/Objects/Storage/medalcase.rsi # Frontier: add _NF prefix
+    sprite: Objects/Storage/medalcase.rsi # Kritters: use standard asset
     layers:
     - state: closed
       map: ["closeLayer"]
@@ -13,7 +13,7 @@
       map: ["openLayer"]
   - type: Appearance
   - type: Item
-    sprite: _NF/Objects/Storage/medalcase.rsi # Frontier: add _NF prefix
+    sprite: Objects/Storage/medalcase.rsi # Kritters: use standard asset
     size: Normal
   - type: Storage
     grid:

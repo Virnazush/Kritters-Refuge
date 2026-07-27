@@ -1,22 +1,12 @@
 # Attempted to keep the files in alphabetical order so its easier to audit.
 # Finding individual authors is an unfeasible task. If you can reference the author please do so.
 
-- files: ["tech_maint.png"]
-  license: "CC-BY-SA-3.0"
-  copyright: "CEV-Eris commit 28e589f0ff72a009adf17db767e90be39054f0f2"
-  source: "https://github.com/discordia-space/CEV-Eris/"
-
-- files: ["plating.png"]
-  license: "CC-BY-SA-3.0"
-  copyright: "Taken from CEV-Eris commit 8e74e4370f4d5885f15c3f834973b1223ddb8b1b, modified by github user @Flareguy"
-  source: "https://github.com/discordia-space/CEV-Eris/"
-
-- files: ["plating_damaged.png", "plating_burnt.png"]
+- files: ["plating_burnt.png"]
   license: "CC-BY-SA-3.0"
   copyright: "Modified by github user @Flareguy from plating.png, using damaged plating sprites from /tg/station at commit https://github.com/tgstation/tgstation/blob/6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae/icons/turf/floors.dmi"
   source: "https://github.com/space-wizards/space-station-14/pull/21711"
 
-- files: [ "asteroid_red.png", "asteroid_tile.png", "elevator_shaft.png", "freezer.png", "foammetal.png", "green_circuit.png", "lino.png", "mono.png", "rock_vault.png", "showroom.png"]
+- files: [ "asteroid_red.png", "elevator_shaft.png", "green_circuit.png", "lino.png", "mono.png", "rock_vault.png"]
   license: "CC-BY-SA-3.0"
   copyright: "vgstation13 at roughly commit e4d3ea7f69d21c3667be12b114fa935c4640cb05, asteroid_red and asteroid_tile taken from commit /vg/station at commit 02b9f6894af4419c9f7e699a22c402b086d8067e."
   source: "https://github.com/vgstation-coders/vgstation13"
@@ -26,15 +16,10 @@
   copyright: "Taken from /tg/station at commit 6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae."
   source: "https://github.com/tgstation/tgstation/"
 
-- files: ["blue_circuit.png", "cropped_parallax.png", "eighties.png", "gold.png", "grass.png", "ironsand1.png", "ironsand2.png", "ironsand3.png", "ironsand4.png", "junglegrass.png", "lattice.png", "red_circuit.png", "reinforced.png", "silver.png", "snow.png", "wood.png"]
+- files: ["blue_circuit.png", "cropped_parallax.png", "eighties.png", "gold.png", "ironsand1.png", "ironsand2.png", "ironsand3.png", "ironsand4.png", "lattice.png", "red_circuit.png", "reinforced.png", "silver.png", "snow.png"]
   license: "CC-BY-SA-3.0"
   copyright: "tgstation commit 8abb19545828230d92ba18827feeb42a67a55d49, cropped_parallax modified from parallax."
   source: "https://github.com/tgstation/tgstation/"
-
-- files: ["plating.png"]
-  license: "CC-BY-SA-3.0"
-  copyright: "Taken from Paradise Paradise/tree/master/icons/turf/floor.dmi"
-  source: "https://github.com/ParadiseSS13/Paradise"
 
 - files: ["super_reinforced.png", "asteroid_plating.png"]
   license: "CC-BY-SA-3.0"
@@ -56,30 +41,80 @@
   copyright: "Created by github user @notquitehadouken."
   source: "https://github.com/space-wizards/space-station-14/pull/17948"
 
-- files: [ "bar.png", "lime.png", "blue.png", "kitchen.png", "laundry.png", "mime.png", "steel.png", "steel_diagonal.png", "steel_mini.png", "steel_offset.png", "steel_pavement.png", "white.png", "white_diagonal.png", "white_mini.png", "white_offset.png", "white_pavement.png", "dark.png", "dark_diagonal.png", "dark_mini.png", "dark_offset.png", "dark_pavement.png", "hydro.png", "plastic.png", "dark_plastic.png", "white_plastic.png", "cafeteria.png", "checker_dark.png", "clown.png" ]
+- files: [ "bar.png", "lime.png", "blue.png", "kitchen.png", "laundry.png", "mime.png", "dark_plastic.png", "white_plastic.png" ]
   license: "CC-BY-SA-3.0"
   copyright: "Created by github user @Flareguy, original, unedited base tiles modified from /tg/station at commit 6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae and github user @moonheart08"
   source: "https://github.com/space-wizards/space-station-14/"
 
-- files: [ "steel_dirty.png" ]
+- files: ["steel.png", "steel_mono.png", "dark.png", "dark_mono.png", "white.png", "white_mono.png"]
   license: "CC-BY-SA-3.0"
-  copyright: "Originally created by github user @moonheart08, then modified by @Flareguy, then modified again by github user @moomoobeef."
-  source: "https://github.com/space-wizards/space-station-14/"
+  copyright: "Shiptest contributors; tiled_gray, monotile_gray, tiled_dark, monotile_dark, tiled_light, and monotile_light states taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c and repeated horizontally where required to preserve four SS14 tile variants."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors/tiles.dmi"
+
+- files: ["steel_mini.png", "steel_diagonal.png", "steel_offset.png", "steel_pavement.png", "steel_pavement_vertical.png", "steel_herringbone.png", "steel_diagonal_mini.png", "white_mini.png", "white_diagonal.png", "white_offset.png", "white_pavement.png", "white_pavement_vertical.png", "white_herringbone.png", "white_diagonal_mini.png", "dark_mini.png", "dark_diagonal.png", "dark_offset.png", "dark_pavement.png", "dark_pavement_vertical.png", "dark_herringbone.png", "dark_diagonal_mini.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Original SS14 tile-pattern geometry by github user @Flareguy, based on /tg/station commit 6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae and work by github user @moonheart08. Adapted for Kritters Refuge using the exact tiled_gray, tiled_dark, and tiled_light palettes from Shiptest commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c."
+  source: "https://github.com/space-wizards/space-station-14/commit/3c5d913b1e44e87a9cac27e2cf9d63df5bedf596 and https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors/tiles.dmi"
+
+- files: ["plating.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; plating state taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors.dmi"
+
+- files: ["tech_maint.png", "steel_maint.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; techfloor and techfloor_grid states taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors/techfloor.dmi"
+
+- files: ["grating_maint.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; tile_full state taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c and repeated horizontally to preserve the existing four-variant SS14 texture contract."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors/tiles.dmi"
+
+- files: ["wood.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; wood state and its in-game WOOD_COLOR_GENERIC tint taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c, with the runtime tint baked into the PNG and the result repeated horizontally to preserve four SS14 tile variants."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/wood.dmi"
+
+- files: ["freezer.png", "steel_dirty.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; freezer and steel_dirty states taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c. The steel_dirty state was repeated horizontally to preserve the existing four-variant SS14 texture contract."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors.dmi"
+
+- files: ["plating_damaged.png", "steel_damaged.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; platingdmg1 through platingdmg3 and damaged1 through damaged5 states taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c. These states retain /tg/station floor-art lineage."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors.dmi and https://github.com/tgstation/tgstation/blob/6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae/icons/turf/floors.dmi"
+
+- files: ["plastic.png", "cafeteria.png", "checker_dark.png", "hydro.png", "showroom.png", "clown.png", "wood_broken.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; plastic, cafeteria, checker, hydrofloor, showroomfloor, honk, and wood-broken through wood-broken7 states taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c. Single states were repeated horizontally where required to preserve four SS14 tile variants; the seven broken-wood states were concatenated to preserve the existing seven-variant contract. These states retain /tg/station floor-art lineage."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors.dmi"
+
+- files: ["grass.png", "grassjungle.png", "grassdark.png", "asteroid_tile.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; grass-255 and grassalt_1 through grassalt_3 from the grass and darkgrass sheets, grass-255 from the junglegrass sheet, and asteroidfloor from floors.dmi taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c. The 70-by-70 grass canvases were cropped to their exact 32-by-32 sprite bounds, and Shiptest's runtime grass variation overlays were flattened over the base state to preserve the existing four-variant SS14 contracts. The donor artwork retains /tg/station lineage."
+  source: "https://github.com/shiptest-ss13/Shiptest/tree/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors"
+
+- files: ["foammetal.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; foam_plating state taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c. The donor artwork retains /tg/station floor-art lineage."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors.dmi"
 
 - files: ["arcadeblue.png", "arcadered.png"]
   license: "CC-BY-SA-3.0"
   copyright: "arcadered renamed from eightiesred, arcadeblue by Peptide90 modified from arcadered.png, tgstation commit 8abb19545828230d92ba18827feeb42a67a55d49"
   source: "https://github.com/tgstation/tgstation/"
 
-- files: ["hull", "hull_reinforced.png", "steel_damaged.png", "steel_burnt.png"]
+- files: ["hull", "hull_reinforced.png", "steel_burnt.png"]
   license: "CC-BY-SA-3.0"
   copyright: "Taken from /tg/station at commit 6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae"
   source: "https://github.com/tgstation/tgstation/"
 
 - files: ["shuttleblue.png", "shuttleorange.png", "shuttlepurple.png", "shuttlered.png", "shuttlewhite.png", "shuttlegrey.png", "shuttleblack.png"]
   license: "CC-BY-SA-3.0"
-  copyright: "Modified by Flareguy for Space Station 14. Unmodified sprite from paradisestation commit 69c831afcd9aef25a2889b507e4f36a3a5fc6def, originally from /VG/ eris"
-  source: "https://github.com/ParadiseSS13/Paradise"
+  copyright: "Shiptest titanium, titanium_blue, titanium_yellow, titanium_white, titanium_purple, plastitanium, and plastitanium_red floor states by github users @PositiveEntropy and @Bjarl in commit 0e6f7fa64649dfbf52b8e4b71756e6625e50fdd0. Taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c and repeated horizontally to preserve the existing four-variant SS14 texture contracts."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors/shuttle_floors.dmi"
 
 - files: ["deprecated.png"]
   license: "MIT"
@@ -96,12 +131,12 @@
   copyright: "Mojave-Sun, taken at commit 0587dd16e28108bdf0b0a28e2caae4319845e861"
   source: "https://github.com/Mojave-Sun/mojave-sun-13"
 
-- files: ["grassdark.png", "grasslight.png", "dirt.png"]
+- files: ["grasslight.png", "dirt.png"]
   license: "CC-BY-SA-3.0"
   copyright: "Fortuna commit 2a9408a47e2f83d945335e4feeeeafb552173e6f, grasslight and dirt by Peptide based on grassdark.png and dirt."
   source: "https://github.com/FortunaSS13/Fortuna"
 
-- files: ["steel_maint.png", "grating_maint.png", "wood_tile.png"]
+- files: ["wood_tile.png"]
   license: "CC-BY-SA-3.0"
   copyright: "by brainfood for space-station-14, ."
   source: "https://github.com/space-wizards/space-station-14/pull/12193"
@@ -110,11 +145,6 @@
   license: "CC0-1.0"
   copyright: "Created by EmoGarbage404 (github) for space-station-14."
   source: "https://github.com/space-wizards/space-station-14/pull/13766"
-
-- files: ["wood_broken.png"]
-  license: "CC-BY-SA-3.0"
-  copyright: "taken at https://github.com/ParadiseSS13/Paradise/blob/8b7f4c8b69c74c6de5a755272eb8d3520f3d87c7/icons/turf/floors.dmi"
-  source: "https://github.com/ParadiseSS13/Paradise"
 
 - files: ["chromite.png"]
   license: "CC-BY-NC-SA-3.0"

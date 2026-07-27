@@ -539,6 +539,7 @@
   components:
   - type: Sprite
     state: pods
+    snapCardinals: false
 
 - type: entity
   parent: BaseSign

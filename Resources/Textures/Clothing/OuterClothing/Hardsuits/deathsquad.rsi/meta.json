@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, edited by Emisse for SS14. Vox state made by Flareguy for SS14, harpy edit by VMSolidus",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e, edited by Emisse for SS14. Vox state made by Flareguy for SS14, harpy edit by VMSolidus; Replacement states from Shiptest contributors; equipped-OUTERCLOTHING from icons/mob/clothing/suits/spacesuits.dmi:deathsquad, icon from icons/obj/clothing/suits/spacesuits.dmi:deathsquad; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
   "size": {
     "x": 32,
     "y": 32
@@ -16,9 +16,9 @@
     },
     {
       "name": "equipped-OUTERCLOTHING-vox",
-	  "directions": 4
-	},
-	{
+      "directions": 4
+    },
+    {
       "name": "equipped-OUTERCLOTHING-harpy",
       "directions": 4
     },

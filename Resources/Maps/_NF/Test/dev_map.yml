@@ -5,7 +5,7 @@ meta:
   forkId: ""
   forkVersion: ""
   time: 12/09/2025 23:47:19
-  entityCount: 1823
+  entityCount: 1835
 maps:
 - 1814
 grids:
@@ -11973,5 +11973,80 @@ entities:
     components:
     - type: Transform
       pos: -0.11783123,4.753312
+      parent: 179
+- proto: KrittersNFDevArtPortMannequin
+  entities:
+  - uid: 1824
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 28.5,-2.5
+      parent: 179
+  - uid: 1825
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 29.5,-2.5
+      parent: 179
+  - uid: 1826
+    components:
+    - type: Transform
+      pos: 30.5,-2.5
+      parent: 179
+  - uid: 1827
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 31.5,-2.5
+      parent: 179
+- proto: Table
+  entities:
+  - uid: 1828
+    components:
+    - type: Transform
+      pos: 28.5,-4.5
+      parent: 179
+  - uid: 1829
+    components:
+    - type: Transform
+      pos: 29.5,-4.5
+      parent: 179
+  - uid: 1830
+    components:
+    - type: Transform
+      pos: 30.5,-4.5
+      parent: 179
+  - uid: 1831
+    components:
+    - type: Transform
+      pos: 31.5,-4.5
+      parent: 179
+- proto: ClothingUniformJumpsuitSec
+  entities:
+  - uid: 1832
+    components:
+    - type: Transform
+      pos: 28.5,-4.5
+      parent: 179
+- proto: ClothingOuterArmorBasic
+  entities:
+  - uid: 1833
+    components:
+    - type: Transform
+      pos: 29.5,-4.5
+      parent: 179
+- proto: ClothingHeadHelmetBasic
+  entities:
+  - uid: 1834
+    components:
+    - type: Transform
+      pos: 30.5,-4.5
+      parent: 179
+- proto: ClothingBackpackSecurity
+  entities:
+  - uid: 1835
+    components:
+    - type: Transform
+      pos: 31.5,-4.5
       parent: 179
 ...

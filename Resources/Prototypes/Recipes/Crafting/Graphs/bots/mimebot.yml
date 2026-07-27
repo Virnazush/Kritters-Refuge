@@ -8,7 +8,7 @@
       steps:
       - tag: MimeHappyHonk
         icon:
-          sprite: _NF/Objects/Storage/Happyhonk/mime.rsi # Frontier: add _NF prefix
+          sprite: Objects/Storage/Happyhonk/mime.rsi # Kritters: use standard asset
           state: box
         name: construction-graph-tag-mime-meal
       - tag: MimeBelt

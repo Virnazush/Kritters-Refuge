@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from vgstation and modified by Swept at https://github.com/vgstation-coders/vgstation13/blob/Bleeding-Edge/icons/obj/lighting.dmi",
+  "copyright": "Taken from vgstation and modified by Swept at https://github.com/vgstation-coders/vgstation13/blob/Bleeding-Edge/icons/obj/lighting.dmi. The off flashlight, inhand-left, and inhand-right states are taken from Shiptest at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c from icons/obj/lighting.dmi and icons/mob/inhands/misc/devices_lefthand.dmi and devices_righthand.dmi.",
   "size": {
     "x": 32,
     "y": 32

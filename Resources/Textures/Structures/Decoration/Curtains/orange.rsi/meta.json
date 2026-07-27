@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Created by TheShuEd (github) for Space Station14",
+  "copyright": "Created by TheShuEd (github) for Space Station 14; Shiptest curtain geometry from revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c, adapted to preserve the native orange color family",
   "size": {
     "x": 32,
     "y": 32

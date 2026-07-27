@@ -1,83 +1,83 @@
 {
-    "version": 1,
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Vox states by Flareguy for Space Station 14. Dog states modified from base states by Sparlight (GitHub).",
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e. Vox states by Flareguy for Space Station 14. Dog states modified from base states by Sparlight (GitHub).; Replacement states from Shiptest contributors; equipped-head from icons/mob/clothing/head/spacesuits.dmi:hardsuit0-engineering, equipped-head-light from delta icons/mob/clothing/head/spacesuits.dmi:hardsuit0-engineering -> hardsuit1-engineering, equipped-head-unshaded from transparent compatibility layer, icon from icons/obj/clothing/head/spacesuits.dmi:hardsuit0-engineering, icon-unshaded from transparent compatibility layer, light-overlay from delta icons/obj/clothing/head/spacesuits.dmi:hardsuit0-engineering -> hardsuit1-engineering; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
     },
-    "states": [
-        {
-            "name": "icon"
-        },
-        {
-            "name": "icon-unshaded"
-        },
-        {
-            "name": "icon-flash"
-        },
-        {
-            "name": "light-overlay"
-        },
-        {
-            "name": "equipped-head",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-light",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-unshaded",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-vox",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-light-vox",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-unshaded-vox",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-dog",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-light-dog",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-unshaded-dog",
-            "directions": 4
-        },
-                {
-            "name": "equipped-head-avali",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-light-avali",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-unshaded-avali",
-            "directions": 4
-        },
-                {
-            "name": "equipped-head-resomi",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-light-resomi",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-unshaded-resomi",
-            "directions": 4
-        }
-    ]
+    {
+      "name": "icon-unshaded"
+    },
+    {
+      "name": "icon-flash"
+    },
+    {
+      "name": "light-overlay"
+    },
+    {
+      "name": "equipped-head",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-vox",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light-vox",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded-vox",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-dog",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light-dog",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded-dog",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-avali",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light-avali",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded-avali",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-resomi",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light-resomi",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded-resomi",
+      "directions": 4
+    }
+  ]
 }

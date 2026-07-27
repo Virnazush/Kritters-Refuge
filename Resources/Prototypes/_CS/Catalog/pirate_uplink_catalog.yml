@@ -117,7 +117,7 @@
   name:  uplink-pirate-rcd-name
   description: uplink-pirate-rcd-desc
   productEntity: PirateRCD
-  icon: { sprite: _NF/Objects/Tools/rcd.rsi, state: icon }
+  icon: { sprite: Objects/Tools/rcd.rsi, state: icon }
   cost:
     Doubloon: 10
   categories:

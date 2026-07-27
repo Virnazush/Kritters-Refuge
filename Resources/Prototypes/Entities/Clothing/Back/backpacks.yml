@@ -302,14 +302,14 @@
       enum.ChameleonUiKey.Key:
         type: ChameleonBoundUserInterface # End Coyote
   - type: Sprite
-    sprite: _NF/Clothing/Back/Backpacks/holding.rsi # Frontier
+    sprite: Clothing/Back/Backpacks/holding.rsi # Kritters: use standard asset
     state: holding
     layers:
     - state: holding
     - state: holding-unlit
       shader: unshaded
   - type: Clothing
-    sprite: _NF/Clothing/Back/Backpacks/holding.rsi # Frontier
+    sprite: Clothing/Back/Backpacks/holding.rsi # Kritters: use standard asset
     clothingVisuals: # Frontier
       back: # Frontier
       - state: holding-equipped-BACKPACK # Frontier

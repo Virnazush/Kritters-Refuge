@@ -1,7 +1,7 @@
 {
     "version": 1,
     "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from https://github.com/BeeStation/BeeStation-Hornet/commit/2e05b943a9d832360a895b48778aa652f7f20774",
+    "copyright": "Taken from https://github.com/BeeStation/BeeStation-Hornet/commit/2e05b943a9d832360a895b48778aa652f7f20774. Converted artwork taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c.",
     "size": {
         "x": 32,
         "y": 32

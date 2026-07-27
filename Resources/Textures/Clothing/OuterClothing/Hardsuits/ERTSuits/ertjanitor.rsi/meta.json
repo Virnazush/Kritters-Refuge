@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6. Vox sprite by Flareguy for Space Station 14, Harpy Variant By Adeinitas",
+  "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6. Vox sprite by Flareguy for Space Station 14, Harpy Variant By Adeinitas; Replacement states from Shiptest contributors; equipped-OUTERCLOTHING from icons/mob/clothing/suits/spacesuits.dmi:ert_janitor, icon from icons/obj/clothing/suits/spacesuits.dmi:ert_janitor; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
   "size": {
     "x": 32,
     "y": 32

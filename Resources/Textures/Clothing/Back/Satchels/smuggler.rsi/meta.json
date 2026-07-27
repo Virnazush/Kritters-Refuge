@@ -1,29 +1,29 @@
 {
-    "version": 1,
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/a8056c6ba7f5367934ef829116e57d743226e1f0, folded by princesscheeseballs (Discord)(https://github.com/Pronana).",
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/commit/a8056c6ba7f5367934ef829116e57d743226e1f0, folded by princesscheeseballs (Discord)(https://github.com/Pronana).; Replacement states from Shiptest contributors; equipped-BACKPACK from icons/mob/clothing/back/backpacks.dmi:satchel-flat, folded from icons/obj/clothing/back/backpacks.dmi:satchel-flat2, icon from icons/obj/clothing/back/backpacks.dmi:satchel-flat, inhand-left from icons/mob/inhands/equipment/backpack_lefthand.dmi:satchel-flat, inhand-right from icons/mob/inhands/equipment/backpack_righthand.dmi:satchel-flat; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
     },
-    "states": [
-        {
-            "name": "icon"
-        },
-        {
-            "name": "folded"
-        },
-        {
-            "name": "equipped-BACKPACK",
-            "directions": 4
-        },
-        {
-            "name": "inhand-left",
-            "directions": 4
-        },
-        {
-            "name": "inhand-right",
-            "directions": 4
-        }
-    ]
+    {
+      "name": "folded"
+    },
+    {
+      "name": "equipped-BACKPACK",
+      "directions": 4
+    },
+    {
+      "name": "inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "inhand-right",
+      "directions": 4
+    }
+  ]
 }

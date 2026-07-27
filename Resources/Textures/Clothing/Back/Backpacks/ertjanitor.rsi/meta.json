@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6",
+  "copyright": "Taken from paradisestation at commit https://github.com/ParadiseSS13/Paradise/commit/12c21ced8432015485484b17e311dcceb7c458f6; Replacement states from Shiptest contributors; equipped-BACKPACK from icons/mob/clothing/back/backpacks.dmi:ert_janitor, icon from icons/obj/clothing/back/backpacks.dmi:ert_janitor, inhand-left from icons/mob/inhands/equipment/backpack_lefthand.dmi:securitypack, inhand-right from icons/mob/inhands/equipment/backpack_righthand.dmi:securitypack; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
   "size": {
     "x": 32,
     "y": 32

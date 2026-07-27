@@ -24,9 +24,9 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
-    sprite: _NF/Clothing/Head/Hoods/cult.rsi
+    sprite: Clothing/Head/Hoods/cult.rsi
   - type: Clothing
-    sprite: _NF/Clothing/Head/Hoods/cult.rsi
+    sprite: Clothing/Head/Hoods/cult.rsi
   - type: HideLayerClothing
     slots:
     - Hair

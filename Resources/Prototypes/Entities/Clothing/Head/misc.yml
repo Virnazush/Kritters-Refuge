@@ -93,9 +93,9 @@
   description: A foppish article, fit for but the most conspicuous of dandies. # Frontier: "To be honest, those look ridiculous."
   components:
   - type: Sprite
-    sprite: _NF/Clothing/Head/Misc/pwig.rsi # Frontier: add _NF prefix
+    sprite: Clothing/Head/Misc/pwig.rsi # Kritters: use standard asset
   - type: Clothing
-    sprite: _NF/Clothing/Head/Misc/pwig.rsi # Frontier: add _NF prefix
+    sprite: Clothing/Head/Misc/pwig.rsi # Kritters: use standard asset
   - type: HideLayerClothing
     slots:
     - HeadTop

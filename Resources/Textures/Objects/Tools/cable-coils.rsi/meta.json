@@ -2,6 +2,7 @@
   "version": 1,
   "license": "CC-BY-SA-3.0",
   "copyright": "Taken from tgstation and modified by SweptWasTaken at commit https://github.com/tgstation/tgstation/commit/77608a9f46b06a46f0f6b1be061755f68cc255a3",
+  "extra_copyright": ["The generic coil world stack states are taken from Shiptest icons/obj/power.dmi at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c."],
   "size": {
     "x": 32,
     "y": 32

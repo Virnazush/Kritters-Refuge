@@ -515,7 +515,7 @@
   description: The toy is more edible than the food.
   components:
   - type: Sprite
-    sprite: _NF/Objects/Storage/Happyhonk/clown.rsi # Frontier: _NF prefix
+    sprite: Objects/Storage/Happyhonk/clown.rsi # Kritters: use standard asset
     state: box
     layers:
     - state: box
@@ -523,7 +523,7 @@
     - state: box-open # Frontier
       map: ["openLayer"] # Frontier
   - type: Item
-    sprite: _NF/Objects/Storage/Happyhonk/clown.rsi # Frontier: _NF prefix
+    sprite: Objects/Storage/Happyhonk/clown.rsi # Kritters: use standard asset
     heldPrefix: box
   - type: Storage
     maxItemSize: Normal
@@ -609,10 +609,10 @@
     - Trash
     - MimeHappyHonk
   - type: Sprite
-    sprite: _NF/Objects/Storage/Happyhonk/mime.rsi # Frontier: _NF prefix
+    sprite: Objects/Storage/Happyhonk/mime.rsi # Kritters: use standard asset
     state: box
   - type: Item
-    sprite: _NF/Objects/Storage/Happyhonk/mime.rsi # Frontier: _NF prefix
+    sprite: Objects/Storage/Happyhonk/mime.rsi # Kritters: use standard asset
     heldPrefix: box
 
 - type: entity
@@ -623,10 +623,10 @@
   suffix: Toy Unsafe
   components:
   - type: Sprite
-    sprite: _NF/Objects/Storage/Happyhonk/nukie.rsi # Frontier: _NF prefix
+    sprite: Objects/Storage/Happyhonk/nukie.rsi # Kritters: use standard asset
     state: box
   - type: Item
-    sprite: _NF/Objects/Storage/Happyhonk/nukie.rsi # Frontier: _NF prefix
+    sprite: Objects/Storage/Happyhonk/nukie.rsi # Kritters: use standard asset
     heldPrefix: box
   - type: StorageFill
     contents:
@@ -708,10 +708,10 @@
     - Trash
     - CluwneHappyHonk
   - type: Sprite
-    sprite: _NF/Objects/Storage/Happyhonk/cluwne.rsi # Frontier: _NF prefix
+    sprite: Objects/Storage/Happyhonk/cluwne.rsi # Kritters: use standard asset
     state: box
   - type: Item
-    sprite: _NF/Objects/Storage/Happyhonk/cluwne.rsi # Frontier: _NF prefix
+    sprite: Objects/Storage/Happyhonk/cluwne.rsi # Kritters: use standard asset
     heldPrefix: box
   - type: StorageFill
     contents:

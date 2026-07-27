@@ -1,46 +1,46 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tgstation at https://github.com/tgstation/tgstation/blob/b8fc9b367ebb26def792a68bcb25294e518698d8/icons/obj/smooth_structures/clockwork_window.dmi, transparency tweaked by Ubaser.",
+  "copyright": "Window smoothing artwork converted from Shiptest and /tg/station contributors at https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/obj/smooth_structures/clockwork_window.dmi. The 47-state donor adjacency contract was converted to the existing eight-state, four-direction RSI IconSmooth contract.",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
     {
-	  "name": "full"
-	},
+      "name": "full"
+    },
     {
       "name": "cwindow0",
-	  "directions": 4
+      "directions": 4
     },
     {
       "name": "cwindow1",
-	  "directions": 4
+      "directions": 4
     },
     {
       "name": "cwindow2",
-	  "directions": 4
+      "directions": 4
     },
     {
       "name": "cwindow3",
-	  "directions": 4
+      "directions": 4
     },
     {
       "name": "cwindow4",
-	  "directions": 4
+      "directions": 4
     },
     {
       "name": "cwindow5",
-	  "directions": 4
+      "directions": 4
     },
     {
       "name": "cwindow6",
-	  "directions": 4
+      "directions": 4
     },
     {
       "name": "cwindow7",
-	  "directions": 4
+      "directions": 4
     }
   ]
 }

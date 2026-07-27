@@ -694,7 +694,7 @@
   name:  uplink-security-medkit-name
   description: uplink-security-medkit-desc
   productEntity: MedkitCombatFilled
-  icon: { sprite: _NF/Objects/Specific/Medical/firstaidkits.rsi, state: blackkit } # Frontier: _NF prefix
+  icon: { sprite: Objects/Specific/Medical/firstaidkits.rsi, state: blackkit } # Kritters: use standard asset
   cost:
     FrontierUplinkCoin: 10
   categories:

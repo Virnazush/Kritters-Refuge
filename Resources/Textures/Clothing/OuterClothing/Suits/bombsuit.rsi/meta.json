@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from cev-eris at commit https://github.com/discordia-space/CEV-Eris/commit/760f0be7af33a31f5a08a3291864e91539d0ebb7. Vox state made by Flareguy for Space Station 14, harpy edit by VMSolidus",
+  "copyright": "Taken from cev-eris at commit https://github.com/discordia-space/CEV-Eris/commit/760f0be7af33a31f5a08a3291864e91539d0ebb7. Vox state made by Flareguy for Space Station 14, harpy edit by VMSolidus; Replacement states from Shiptest contributors; converted from icons/mob/clothing/suits/utility.dmi, icons/obj/clothing/suits/utility.dmi at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
   "size": {
     "x": 32,
     "y": 32
@@ -17,8 +17,8 @@
     {
       "name": "equipped-OUTERCLOTHING-vox",
       "directions": 4
-	},
-	{
+    },
+    {
       "name": "equipped-OUTERCLOTHING-harpy",
       "directions": 4
     },

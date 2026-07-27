@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "license": "CC0-1.0",
-  "copyright": "Created by EmoGarbage404 (github) for Space Station 14.",
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Created by EmoGarbage404 (github) for Space Station 14. Converted crate artwork taken from Shiptest icons/obj/crates.dmi at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c.",
   "size": {
     "x": 32,
     "y": 32

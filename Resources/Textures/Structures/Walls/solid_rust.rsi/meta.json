@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from https://github.com/tgstation/tgstation/commit/67a5373b4649937dd63dd94153e05e8506f40a5d and modified.",
+  "copyright": "Wall smoothing artwork converted from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c (https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/walls/rusty_wall.dmi, https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/walls/rusty_reinforced_wall.dmi); Shiptest and /tg/station contributors. The 47-state donor adjacency contract was converted to the existing eight-state, four-direction RSI IconSmooth contract. Retained auxiliary states: Taken from https://github.com/tgstation/tgstation/commit/67a5373b4649937dd63dd94153e05e8506f40a5d and modified.",
   "size": {
     "x": 32,
     "y": 32

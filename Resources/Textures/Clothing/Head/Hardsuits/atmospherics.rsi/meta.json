@@ -1,87 +1,87 @@
 {
-    "version": 1,
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e | vulpkanin version taken from Paradise station at https://github.com/ParadiseSS13/Paradise/commit/f0fa4e1fd809482fbc104a310aa34cebf7df157d. Vox states made by Flareguy for SS14",
-    "size": {
-        "x": 32,
-        "y": 32
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/4f6190e2895e09116663ef282d3ce1d8b35c032e | vulpkanin version taken from Paradise station at https://github.com/ParadiseSS13/Paradise/commit/f0fa4e1fd809482fbc104a310aa34cebf7df157d. Vox states made by Flareguy for SS14; Replacement states from Shiptest contributors; equipped-head from icons/mob/clothing/head/spacesuits.dmi:hardsuit0-atmospherics, equipped-head-light from delta icons/mob/clothing/head/spacesuits.dmi:hardsuit0-atmospherics -> hardsuit1-atmospherics, equipped-head-unshaded from transparent compatibility layer, icon from icons/obj/clothing/head/spacesuits.dmi:hardsuit0-atmospherics, icon-unshaded from transparent compatibility layer, light-overlay from delta icons/obj/clothing/head/spacesuits.dmi:hardsuit0-atmospherics -> hardsuit1-atmospherics; converted at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
     },
-    "states": [
-        {
-            "name": "icon"
-        },
-        {
-            "name": "icon-unshaded"
-        },
-        {
-            "name": "icon-flash"
-        },
-        {
-            "name": "light-overlay"
-        },
-        {
-            "name": "equipped-head",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-light",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-light-vox",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-unshaded",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-unshaded-vox",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-unshaded-vulpkanin",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-vox",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-vulpkanin",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-feroxi",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-harpy",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-resomi",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-unshaded-resomi",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-light-resomi",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-light-avali",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-unshaded-avali",
-            "directions": 4
-        },
-        {
-            "name": "equipped-head-avali",
-            "directions": 4
-        }
-    ]
+    {
+      "name": "icon-unshaded"
+    },
+    {
+      "name": "icon-flash"
+    },
+    {
+      "name": "light-overlay"
+    },
+    {
+      "name": "equipped-head",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light-vox",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded-vox",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded-vulpkanin",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-vox",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-vulpkanin",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-feroxi",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-harpy",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-resomi",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded-resomi",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light-resomi",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-light-avali",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-unshaded-avali",
+      "directions": 4
+    },
+    {
+      "name": "equipped-head-avali",
+      "directions": 4
+    }
+  ]
 }

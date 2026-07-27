@@ -1,9 +1,19 @@
-- files: ["asphalt.png", "oldconcrete.png", "oldconcrete_mono.png", "oldconcrete_smooth.png"]
+- files: ["oldconcrete.png", "oldconcrete_mono.png", "oldconcrete_smooth.png"]
   license: "CC-BY-SA-3.0"
   copyright: "Taken from vgstation13, modified by EmoGarbage404 (github)"
   source: "https://github.com/vgstation-coders/vgstation13/commit/02b9f6894af4419c9f7e699a22c402b086d8067e"
 
-- files: ["concrete.png", "concrete_mono.png", "concrete_smooth.png", "grayconcrete.png", "grayconcrete_mono.png", "grayconcrete_smooth.png"]
+- files: ["grayconcrete.png", "grayconcrete_mono.png", "grayconcrete_smooth.png"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "Taken from goonstation, modified by EmoGarbage404 (github)"
   source: "https://github.com/goonstation/goonstation/commit/1a76b08389014ec88f703fdb1ae916c2a6e57bd8"
+
+- files: ["concrete.png", "asphalt.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Shiptest contributors; conc_smooth_1 through conc_smooth_4 and pavement_1 through pavement_4 states taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c. The four pavement variants are cycled to preserve asphalt.png's ten-variant SS14 contract."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors/concrete.dmi"
+
+- files: ["concrete_mono.png", "concrete_smooth.png"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Current concrete artwork by Imaginos16 (PositiveEntropy); conc_slab_1 through conc_slab_4 and conc_smooth states taken from Shiptest at commit 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c. The smooth state is repeated horizontally to preserve the existing four-variant SS14 texture contract."
+  source: "https://github.com/shiptest-ss13/Shiptest/blob/2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c/icons/turf/floors/concrete.dmi"

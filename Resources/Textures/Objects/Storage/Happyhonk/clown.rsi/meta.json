@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Made by brainfood1183 (github), modified by ps3moira (github)",
+  "copyright": "Made by brainfood1183 (github), modified by ps3moira (github). Additional same-concept states retained from the _NF RSI: made by brainfood1183 (github)",
   "size": {
     "x": 32,
     "y": 32
@@ -17,6 +17,9 @@
     {
       "name": "box-inhand-right",
       "directions": 4
+    },
+    {
+      "name": "box-open"
     }
   ]
 }

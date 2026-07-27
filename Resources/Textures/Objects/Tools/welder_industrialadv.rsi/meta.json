@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/782006a07ef7f16f70128489b3e78b210ee4bbbe",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/782006a07ef7f16f70128489b3e78b210ee4bbbe. The icon, welder_flame, inhand-left, inhand-right, inhand-left-flame, and inhand-right-flame states are taken from Shiptest at revision 2a52d0e448c4f8f7223bcb8d0e58ca7dcb67028c from icons/obj/tools.dmi, icons/mob/inhands/equipment/tools_lefthand.dmi, and icons/mob/inhands/equipment/tools_righthand.dmi and were converted or renamed to the existing Kritters Refuge RSI state contract.",
   "size": {
     "x": 32,
     "y": 32
@@ -14,7 +14,7 @@
       "name": "welder_flame",
       "delays": [
         [
-          0.2,
+          0.1,
           0.1
         ]
       ]
@@ -32,24 +32,24 @@
       "directions": 4,
       "delays": [
         [
-          0.2,
-          0.2,
-          0.2
+          0.1,
+          0.1,
+          0.1
         ],
         [
-          0.2,
-          0.2,
-          0.2
+          0.1,
+          0.1,
+          0.1
         ],
         [
-          0.2,
-          0.2,
-          0.2
+          0.1,
+          0.1,
+          0.1
         ],
         [
-          0.2,
-          0.2,
-          0.2
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
@@ -58,24 +58,24 @@
       "directions": 4,
       "delays": [
         [
-          0.2,
-          0.2,
-          0.2
+          0.1,
+          0.1,
+          0.1
         ],
         [
-          0.2,
-          0.2,
-          0.2
+          0.1,
+          0.1,
+          0.1
         ],
         [
-          0.2,
-          0.2,
-          0.2
+          0.1,
+          0.1,
+          0.1
         ],
         [
-          0.2,
-          0.2,
-          0.2
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
